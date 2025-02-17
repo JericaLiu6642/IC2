@@ -1,0 +1,7 @@
+﻿  map.cpp
+c:\users\user\desktop\計算機概論\大一下\hw4_e24116071\hw4_e24116071\map.cpp(91): warning C4018: '<': signed/unsigned 不相符
+c:\users\user\desktop\計算機概論\大一下\hw4_e24116071\hw4_e24116071\map.cpp(92): warning C4018: '<': signed/unsigned 不相符
+c:\users\user\desktop\計算機概論\大一下\hw4_e24116071\hw4_e24116071\map.cpp(113): warning C4018: '<': signed/unsigned 不相符
+c:\users\user\desktop\計算機概論\大一下\hw4_e24116071\hw4_e24116071\map.cpp(114): warning C4018: '<': signed/unsigned 不相符
+c:\users\user\desktop\計算機概論\大一下\hw4_e24116071\hw4_e24116071\map.cpp(150): warning C4244: '引數': 將 'time_t' 轉換為 'unsigned int'，由於類型不同，可能導致資料遺失
+  HW4_E24116071.vcxproj -> C:\Users\user\Desktop\計算機概論\大一下\HW4_E24116071\Debug\HW4_E24116071.exe
