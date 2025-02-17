@@ -1,0 +1,8 @@
+﻿  Battle.cpp
+c:\users\user\desktop\計算機概論\大一下\hw9_e24116071\hw9_e24116071\battle.cpp(24): warning C4267: '正在初始化': 將 'size_t' 轉換為 'int'，資料可能遺失
+c:\users\user\desktop\計算機概論\大一下\hw9_e24116071\hw9_e24116071\battle.cpp(25): warning C4267: '正在初始化': 將 'size_t' 轉換為 'int'，資料可能遺失
+c:\users\user\desktop\計算機概論\大一下\hw9_e24116071\hw9_e24116071\battle.cpp(66): warning C4244: '引數': 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+c:\users\user\desktop\計算機概論\大一下\hw9_e24116071\hw9_e24116071\battle.cpp(114): warning C4244: '引數': 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+c:\users\user\desktop\計算機概論\大一下\hw9_e24116071\hw9_e24116071\battle.cpp(175): warning C4244: '引數': 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+c:\users\user\desktop\計算機概論\大一下\hw9_e24116071\hw9_e24116071\battle.cpp(227): warning C4244: '引數': 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+  HW9_E24116071.vcxproj -> C:\Users\user\Desktop\計算機概論\大一下\HW9_E24116071\x64\Debug\HW9_E24116071.exe
