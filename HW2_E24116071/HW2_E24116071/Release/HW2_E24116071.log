@@ -1,0 +1,9 @@
+﻿  HW2_E24116071.cpp
+c:\users\user\desktop\計算機概論\大一下\hw2_e24116071\hw2_e24116071\hw2_e24116071.cpp(39): warning C4018: '<': signed/unsigned 不相符
+c:\users\user\desktop\計算機概論\大一下\hw2_e24116071\hw2_e24116071\hw2_e24116071.cpp(62): warning C4018: '<': signed/unsigned 不相符
+c:\users\user\desktop\計算機概論\大一下\hw2_e24116071\hw2_e24116071\hw2_e24116071.cpp(89): warning C4018: '<': signed/unsigned 不相符
+c:\users\user\desktop\計算機概論\大一下\hw2_e24116071\hw2_e24116071\hw2_e24116071.cpp(149): warning C4244: '引數': 將 'time_t' 轉換為 'unsigned int'，由於類型不同，可能導致資料遺失
+  正在產生程式碼
+  All 270 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  已完成程式碼產生
+  HW2_E24116071.vcxproj -> C:\Users\user\Desktop\計算機概論\大一下\HW2_E24116071\Release\HW2_E24116071.exe
