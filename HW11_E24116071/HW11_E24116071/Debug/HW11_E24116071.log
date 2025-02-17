@@ -1,0 +1,791 @@
+﻿  ArmorItem.cpp
+c:\users\user\desktop\計算機概論\大一下\hw11_e24116071\hw11_e24116071\orcplayer.h(6): error C2504: 'NovicePlayer': 基底類別未定義
+c:\users\user\desktop\計算機概論\大一下\hw11_e24116071\hw11_e24116071\orcplayer.h(14): error C2143: 語法錯誤: 遺漏 ';' (在 '*' 之前)
+c:\users\user\desktop\計算機概論\大一下\hw11_e24116071\hw11_e24116071\orcplayer.h(14): error C4430: 遺漏類型規範 - 假設為 int。注意: C++ 不支援 default-int
+c:\users\user\desktop\計算機概論\大一下\hw11_e24116071\hw11_e24116071\orcplayer.h(14): error C2238: 在 ';' 之前有未預期的語彙基元
+c:\users\user\desktop\計算機概論\大一下\hw11_e24116071\hw11_e24116071\knightplayer.h(6): error C2504: 'NovicePlayer': 基底類別未定義
+c:\users\user\desktop\計算機概論\大一下\hw11_e24116071\hw11_e24116071\knightplayer.h(13): error C2061: 語法錯誤: 識別項 'NovicePlayer'
+c:\users\user\desktop\計算機概論\大一下\hw11_e24116071\hw11_e24116071\knightplayer.h(15): error C2143: 語法錯誤: 遺漏 ';' (在 '*' 之前)
+c:\users\user\desktop\計算機概論\大一下\hw11_e24116071\hw11_e24116071\knightplayer.h(15): error C4430: 遺漏類型規範 - 假設為 int。注意: C++ 不支援 default-int
+c:\users\user\desktop\計算機概論\大一下\hw11_e24116071\hw11_e24116071\knightplayer.h(15): error C2238: 在 ';' 之前有未預期的語彙基元
+c:\users\user\desktop\計算機概論\大一下\hw11_e24116071\hw11_e24116071\magicianplayer.h(7): error C2504: 'NovicePlayer': 基底類別未定義
+c:\users\user\desktop\計算機概論\大一下\hw11_e24116071\hw11_e24116071\magicianplayer.h(16): error C2143: 語法錯誤: 遺漏 ';' (在 '*' 之前)
+c:\users\user\desktop\計算機概論\大一下\hw11_e24116071\hw11_e24116071\magicianplayer.h(16): error C4430: 遺漏類型規範 - 假設為 int。注意: C++ 不支援 default-int
+c:\users\user\desktop\計算機概論\大一下\hw11_e24116071\hw11_e24116071\magicianplayer.h(16): error C2238: 在 ';' 之前有未預期的語彙基元
+c:\users\user\desktop\計算機概論\大一下\hw11_e24116071\hw11_e24116071\battle.h(33): error C2065: 'NovicePlayer': 未宣告的識別項
+c:\users\user\desktop\計算機概論\大一下\hw11_e24116071\hw11_e24116071\battle.h(33): error C2059: 語法錯誤: '>'
+c:\users\user\desktop\計算機概論\大一下\hw11_e24116071\hw11_e24116071\consumableitem.h(13): error C4430: 遺漏類型規範 - 假設為 int。注意: C++ 不支援 default-int
+c:\users\user\desktop\計算機概論\大一下\hw11_e24116071\hw11_e24116071\consumableitem.h(13): error C2143: 語法錯誤: 遺漏 ',' (在 '*' 之前)
+c:\users\user\desktop\計算機概論\大一下\hw11_e24116071\hw11_e24116071\noviceplayer.h(67): error C2143: 語法錯誤: 遺漏 ';' (在 '*' 之前)
+c:\users\user\desktop\計算機概論\大一下\hw11_e24116071\hw11_e24116071\noviceplayer.h(67): error C4430: 遺漏類型規範 - 假設為 int。注意: C++ 不支援 default-int
+c:\users\user\desktop\計算機概論\大一下\hw11_e24116071\hw11_e24116071\noviceplayer.h(67): error C2238: 在 ';' 之前有未預期的語彙基元
+c:\users\user\desktop\計算機概論\大一下\hw11_e24116071\hw11_e24116071\noviceplayer.h(69): error C2061: 語法錯誤: 識別項 'ArmorItem'
+  BaseMonster.cpp
+  Battle.cpp
+c:\users\user\desktop\計算機概論\大一下\hw11_e24116071\hw11_e24116071\orcplayer.h(6): error C2504: 'NovicePlayer': 基底類別未定義
+c:\users\user\desktop\計算機概論\大一下\hw11_e24116071\hw11_e24116071\orcplayer.h(14): error C2143: 語法錯誤: 遺漏 ';' (在 '*' 之前)
+c:\users\user\desktop\計算機概論\大一下\hw11_e24116071\hw11_e24116071\orcplayer.h(14): error C4430: 遺漏類型規範 - 假設為 int。注意: C++ 不支援 default-int
+c:\users\user\desktop\計算機概論\大一下\hw11_e24116071\hw11_e24116071\orcplayer.h(14): error C2238: 在 ';' 之前有未預期的語彙基元
+c:\users\user\desktop\計算機概論\大一下\hw11_e24116071\hw11_e24116071\knightplayer.h(6): error C2504: 'NovicePlayer': 基底類別未定義
+c:\users\user\desktop\計算機概論\大一下\hw11_e24116071\hw11_e24116071\knightplayer.h(13): error C2061: 語法錯誤: 識別項 'NovicePlayer'
+c:\users\user\desktop\計算機概論\大一下\hw11_e24116071\hw11_e24116071\knightplayer.h(15): error C2143: 語法錯誤: 遺漏 ';' (在 '*' 之前)
+c:\users\user\desktop\計算機概論\大一下\hw11_e24116071\hw11_e24116071\knightplayer.h(15): error C4430: 遺漏類型規範 - 假設為 int。注意: C++ 不支援 default-int
+c:\users\user\desktop\計算機概論\大一下\hw11_e24116071\hw11_e24116071\knightplayer.h(15): error C2238: 在 ';' 之前有未預期的語彙基元
+c:\users\user\desktop\計算機概論\大一下\hw11_e24116071\hw11_e24116071\magicianplayer.h(7): error C2504: 'NovicePlayer': 基底類別未定義
+c:\users\user\desktop\計算機概論\大一下\hw11_e24116071\hw11_e24116071\magicianplayer.h(16): error C2143: 語法錯誤: 遺漏 ';' (在 '*' 之前)
+c:\users\user\desktop\計算機概論\大一下\hw11_e24116071\hw11_e24116071\magicianplayer.h(16): error C4430: 遺漏類型規範 - 假設為 int。注意: C++ 不支援 default-int
+c:\users\user\desktop\計算機概論\大一下\hw11_e24116071\hw11_e24116071\magicianplayer.h(16): error C2238: 在 ';' 之前有未預期的語彙基元
+c:\users\user\desktop\計算機概論\大一下\hw11_e24116071\hw11_e24116071\battle.h(33): error C2065: 'NovicePlayer': 未宣告的識別項
+c:\users\user\desktop\計算機概論\大一下\hw11_e24116071\hw11_e24116071\battle.h(33): error C2059: 語法錯誤: '>'
+c:\users\user\desktop\計算機概論\大一下\hw11_e24116071\hw11_e24116071\consumableitem.h(13): error C4430: 遺漏類型規範 - 假設為 int。注意: C++ 不支援 default-int
+c:\users\user\desktop\計算機概論\大一下\hw11_e24116071\hw11_e24116071\consumableitem.h(13): error C2143: 語法錯誤: 遺漏 ',' (在 '*' 之前)
+c:\users\user\desktop\計算機概論\大一下\hw11_e24116071\hw11_e24116071\battle.cpp(23): error C2511: 'Battle::Battle(std::vector<NovicePlayer *,std::allocator<_Ty>>,std::vector<BaseMonster *,std::allocator<BaseMonster*>>)': 在 'Battle' 找不到多載成員函式
+          with
+          [
+              _Ty=NovicePlayer *
+          ]
+  c:\users\user\desktop\計算機概論\大一下\hw11_e24116071\hw11_e24116071\battle.h(26): note: 請參閱 'Battle' 的宣告
+c:\users\user\desktop\計算機概論\大一下\hw11_e24116071\hw11_e24116071\battle.cpp(26): error C2597: 參考非靜態成員 'Battle::ActionList' 是不合法的
+c:\users\user\desktop\計算機概論\大一下\hw11_e24116071\hw11_e24116071\battle.cpp(33): warning C4018: '<': signed/unsigned 不相符
+c:\users\user\desktop\計算機概論\大一下\hw11_e24116071\hw11_e24116071\battle.cpp(34): error C2597: 參考非靜態成員 'Battle::ActionList' 是不合法的
+c:\users\user\desktop\計算機概論\大一下\hw11_e24116071\hw11_e24116071\battle.cpp(34): error C3867: 'Battle::ActionList': 非標準語法; 請使用 '&' 建立成員的指標
+c:\users\user\desktop\計算機概論\大一下\hw11_e24116071\hw11_e24116071\battle.cpp(34): error C2109: 註標必須使用在陣列或指標類型上
+c:\users\user\desktop\計算機概論\大一下\hw11_e24116071\hw11_e24116071\battle.cpp(35): error C2597: 參考非靜態成員 'Battle::ActionList' 是不合法的
+c:\users\user\desktop\計算機概論\大一下\hw11_e24116071\hw11_e24116071\battle.cpp(35): error C3867: 'Battle::ActionList': 非標準語法; 請使用 '&' 建立成員的指標
+c:\users\user\desktop\計算機概論\大一下\hw11_e24116071\hw11_e24116071\battle.cpp(35): error C2109: 註標必須使用在陣列或指標類型上
+c:\users\user\desktop\計算機概論\大一下\hw11_e24116071\hw11_e24116071\battle.cpp(36): error C2597: 參考非靜態成員 'Battle::ActionList' 是不合法的
+c:\users\user\desktop\計算機概論\大一下\hw11_e24116071\hw11_e24116071\battle.cpp(36): error C3867: 'Battle::ActionList': 非標準語法; 請使用 '&' 建立成員的指標
+c:\users\user\desktop\計算機概論\大一下\hw11_e24116071\hw11_e24116071\battle.cpp(36): error C2109: 註標必須使用在陣列或指標類型上
+c:\users\user\desktop\計算機概論\大一下\hw11_e24116071\hw11_e24116071\battle.cpp(40): warning C4018: '<': signed/unsigned 不相符
+c:\users\user\desktop\計算機概論\大一下\hw11_e24116071\hw11_e24116071\battle.cpp(41): error C2597: 參考非靜態成員 'Battle::ActionList' 是不合法的
+c:\users\user\desktop\計算機概論\大一下\hw11_e24116071\hw11_e24116071\battle.cpp(41): error C3867: 'Battle::ActionList': 非標準語法; 請使用 '&' 建立成員的指標
+c:\users\user\desktop\計算機概論\大一下\hw11_e24116071\hw11_e24116071\battle.cpp(41): error C2109: 註標必須使用在陣列或指標類型上
+c:\users\user\desktop\計算機概論\大一下\hw11_e24116071\hw11_e24116071\battle.cpp(42): error C2597: 參考非靜態成員 'Battle::ActionList' 是不合法的
+c:\users\user\desktop\計算機概論\大一下\hw11_e24116071\hw11_e24116071\battle.cpp(42): error C3867: 'Battle::ActionList': 非標準語法; 請使用 '&' 建立成員的指標
+c:\users\user\desktop\計算機概論\大一下\hw11_e24116071\hw11_e24116071\battle.cpp(42): error C2109: 註標必須使用在陣列或指標類型上
+c:\users\user\desktop\計算機概論\大一下\hw11_e24116071\hw11_e24116071\battle.cpp(43): error C2597: 參考非靜態成員 'Battle::ActionList' 是不合法的
+c:\users\user\desktop\計算機概論\大一下\hw11_e24116071\hw11_e24116071\battle.cpp(43): error C3867: 'Battle::ActionList': 非標準語法; 請使用 '&' 建立成員的指標
+c:\users\user\desktop\計算機概論\大一下\hw11_e24116071\hw11_e24116071\battle.cpp(43): error C2109: 註標必須使用在陣列或指標類型上
+c:\users\user\desktop\計算機概論\大一下\hw11_e24116071\hw11_e24116071\battle.cpp(49): error C2352: 'Battle::result': 非靜態成員函式的呼叫不合法
+  c:\users\user\desktop\計算機概論\大一下\hw11_e24116071\hw11_e24116071\battle.h(35): note: 請參閱 'Battle::result' 的宣告
+c:\users\user\desktop\計算機概論\大一下\hw11_e24116071\hw11_e24116071\battle.cpp(52): error C2597: 參考非靜態成員 'Battle::ActionList' 是不合法的
+c:\users\user\desktop\計算機概論\大一下\hw11_e24116071\hw11_e24116071\battle.cpp(52): error C3867: 'Battle::ActionList': 非標準語法; 請使用 '&' 建立成員的指標
+c:\users\user\desktop\計算機概論\大一下\hw11_e24116071\hw11_e24116071\battle.cpp(52): error C2109: 註標必須使用在陣列或指標類型上
+c:\users\user\desktop\計算機概論\大一下\hw11_e24116071\hw11_e24116071\battle.cpp(53): error C2597: 參考非靜態成員 'Battle::ActionList' 是不合法的
+c:\users\user\desktop\計算機概論\大一下\hw11_e24116071\hw11_e24116071\battle.cpp(53): error C3867: 'Battle::ActionList': 非標準語法; 請使用 '&' 建立成員的指標
+c:\users\user\desktop\計算機概論\大一下\hw11_e24116071\hw11_e24116071\battle.cpp(53): error C2109: 註標必須使用在陣列或指標類型上
+c:\users\user\desktop\計算機概論\大一下\hw11_e24116071\hw11_e24116071\battle.cpp(60): error C2352: 'Battle::print': 非靜態成員函式的呼叫不合法
+  c:\users\user\desktop\計算機概論\大一下\hw11_e24116071\hw11_e24116071\battle.h(39): note: 請參閱 'Battle::print' 的宣告
+c:\users\user\desktop\計算機概論\大一下\hw11_e24116071\hw11_e24116071\battle.cpp(64): error C2597: 參考非靜態成員 'Battle::ActionList' 是不合法的
+c:\users\user\desktop\計算機概論\大一下\hw11_e24116071\hw11_e24116071\battle.cpp(64): error C3867: 'Battle::ActionList': 非標準語法; 請使用 '&' 建立成員的指標
+c:\users\user\desktop\計算機概論\大一下\hw11_e24116071\hw11_e24116071\battle.cpp(64): error C2109: 註標必須使用在陣列或指標類型上
+c:\users\user\desktop\計算機概論\大一下\hw11_e24116071\hw11_e24116071\battle.cpp(65): error C2597: 參考非靜態成員 'Battle::ActionList' 是不合法的
+c:\users\user\desktop\計算機概論\大一下\hw11_e24116071\hw11_e24116071\battle.cpp(65): error C3867: 'Battle::ActionList': 非標準語法; 請使用 '&' 建立成員的指標
+c:\users\user\desktop\計算機概論\大一下\hw11_e24116071\hw11_e24116071\battle.cpp(65): error C2109: 註標必須使用在陣列或指標類型上
+c:\users\user\desktop\計算機概論\大一下\hw11_e24116071\hw11_e24116071\battle.cpp(66): warning C4244: '引數': 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+c:\users\user\desktop\計算機概論\大一下\hw11_e24116071\hw11_e24116071\battle.cpp(69): error C2597: 參考非靜態成員 'Battle::ActionList' 是不合法的
+c:\users\user\desktop\計算機概論\大一下\hw11_e24116071\hw11_e24116071\battle.cpp(69): error C3867: 'Battle::ActionList': 非標準語法; 請使用 '&' 建立成員的指標
+c:\users\user\desktop\計算機概論\大一下\hw11_e24116071\hw11_e24116071\battle.cpp(69): error C2109: 註標必須使用在陣列或指標類型上
+c:\users\user\desktop\計算機概論\大一下\hw11_e24116071\hw11_e24116071\battle.cpp(79): error C2352: 'Battle::print': 非靜態成員函式的呼叫不合法
+  c:\users\user\desktop\計算機概論\大一下\hw11_e24116071\hw11_e24116071\battle.h(39): note: 請參閱 'Battle::print' 的宣告
+c:\users\user\desktop\計算機概論\大一下\hw11_e24116071\hw11_e24116071\battle.cpp(83): error C2352: 'Battle::result': 非靜態成員函式的呼叫不合法
+  c:\users\user\desktop\計算機概論\大一下\hw11_e24116071\hw11_e24116071\battle.h(35): note: 請參閱 'Battle::result' 的宣告
+c:\users\user\desktop\計算機概論\大一下\hw11_e24116071\hw11_e24116071\battle.cpp(94): error C2352: 'Battle::print': 非靜態成員函式的呼叫不合法
+  c:\users\user\desktop\計算機概論\大一下\hw11_e24116071\hw11_e24116071\battle.h(39): note: 請參閱 'Battle::print' 的宣告
+c:\users\user\desktop\計算機概論\大一下\hw11_e24116071\hw11_e24116071\battle.cpp(95): error C2597: 參考非靜態成員 'Battle::ActionList' 是不合法的
+c:\users\user\desktop\計算機概論\大一下\hw11_e24116071\hw11_e24116071\battle.cpp(95): error C3867: 'Battle::ActionList': 非標準語法; 請使用 '&' 建立成員的指標
+c:\users\user\desktop\計算機概論\大一下\hw11_e24116071\hw11_e24116071\battle.cpp(95): error C2109: 註標必須使用在陣列或指標類型上
+c:\users\user\desktop\計算機概論\大一下\hw11_e24116071\hw11_e24116071\battle.cpp(121): error C2352: 'Battle::print': 非靜態成員函式的呼叫不合法
+  c:\users\user\desktop\計算機概論\大一下\hw11_e24116071\hw11_e24116071\battle.h(39): note: 請參閱 'Battle::print' 的宣告
+c:\users\user\desktop\計算機概論\大一下\hw11_e24116071\hw11_e24116071\battle.cpp(125): error C2597: 參考非靜態成員 'Battle::ActionList' 是不合法的
+c:\users\user\desktop\計算機概論\大一下\hw11_e24116071\hw11_e24116071\battle.cpp(125): error C3867: 'Battle::ActionList': 非標準語法; 請使用 '&' 建立成員的指標
+c:\users\user\desktop\計算機概論\大一下\hw11_e24116071\hw11_e24116071\battle.cpp(125): error C2109: 註標必須使用在陣列或指標類型上
+c:\users\user\desktop\計算機概論\大一下\hw11_e24116071\hw11_e24116071\battle.cpp(126): error C2597: 參考非靜態成員 'Battle::ActionList' 是不合法的
+c:\users\user\desktop\計算機概論\大一下\hw11_e24116071\hw11_e24116071\battle.cpp(126): error C3867: 'Battle::ActionList': 非標準語法; 請使用 '&' 建立成員的指標
+c:\users\user\desktop\計算機概論\大一下\hw11_e24116071\hw11_e24116071\battle.cpp(126): error C2109: 註標必須使用在陣列或指標類型上
+c:\users\user\desktop\計算機概論\大一下\hw11_e24116071\hw11_e24116071\battle.cpp(127): warning C4244: '引數': 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+c:\users\user\desktop\計算機概論\大一下\hw11_e24116071\hw11_e24116071\battle.cpp(130): error C2597: 參考非靜態成員 'Battle::ActionList' 是不合法的
+c:\users\user\desktop\計算機概論\大一下\hw11_e24116071\hw11_e24116071\battle.cpp(130): error C3867: 'Battle::ActionList': 非標準語法; 請使用 '&' 建立成員的指標
+c:\users\user\desktop\計算機概論\大一下\hw11_e24116071\hw11_e24116071\battle.cpp(130): error C2109: 註標必須使用在陣列或指標類型上
+c:\users\user\desktop\計算機概論\大一下\hw11_e24116071\hw11_e24116071\battle.cpp(140): error C2352: 'Battle::print': 非靜態成員函式的呼叫不合法
+  c:\users\user\desktop\計算機概論\大一下\hw11_e24116071\hw11_e24116071\battle.h(39): note: 請參閱 'Battle::print' 的宣告
+c:\users\user\desktop\計算機概論\大一下\hw11_e24116071\hw11_e24116071\battle.cpp(144): error C2352: 'Battle::result': 非靜態成員函式的呼叫不合法
+  c:\users\user\desktop\計算機概論\大一下\hw11_e24116071\hw11_e24116071\battle.h(35): note: 請參閱 'Battle::result' 的宣告
+c:\users\user\desktop\計算機概論\大一下\hw11_e24116071\hw11_e24116071\battle.cpp(154): error C2352: 'Battle::print': 非靜態成員函式的呼叫不合法
+  c:\users\user\desktop\計算機概論\大一下\hw11_e24116071\hw11_e24116071\battle.h(39): note: 請參閱 'Battle::print' 的宣告
+c:\users\user\desktop\計算機概論\大一下\hw11_e24116071\hw11_e24116071\battle.cpp(159): error C2597: 參考非靜態成員 'Battle::ActionList' 是不合法的
+c:\users\user\desktop\計算機概論\大一下\hw11_e24116071\hw11_e24116071\battle.cpp(159): error C3867: 'Battle::ActionList': 非標準語法; 請使用 '&' 建立成員的指標
+c:\users\user\desktop\計算機概論\大一下\hw11_e24116071\hw11_e24116071\battle.cpp(159): error C2109: 註標必須使用在陣列或指標類型上
+c:\users\user\desktop\計算機概論\大一下\hw11_e24116071\hw11_e24116071\battle.cpp(166): error C2352: 'Battle::print': 非靜態成員函式的呼叫不合法
+  c:\users\user\desktop\計算機概論\大一下\hw11_e24116071\hw11_e24116071\battle.h(39): note: 請參閱 'Battle::print' 的宣告
+c:\users\user\desktop\計算機概論\大一下\hw11_e24116071\hw11_e24116071\battle.cpp(176): error C2597: 參考非靜態成員 'Battle::ActionList' 是不合法的
+c:\users\user\desktop\計算機概論\大一下\hw11_e24116071\hw11_e24116071\battle.cpp(176): error C3867: 'Battle::ActionList': 非標準語法; 請使用 '&' 建立成員的指標
+c:\users\user\desktop\計算機概論\大一下\hw11_e24116071\hw11_e24116071\battle.cpp(176): error C2109: 註標必須使用在陣列或指標類型上
+c:\users\user\desktop\計算機概論\大一下\hw11_e24116071\hw11_e24116071\battle.cpp(182): error C2352: 'Battle::print': 非靜態成員函式的呼叫不合法
+  c:\users\user\desktop\計算機概論\大一下\hw11_e24116071\hw11_e24116071\battle.h(39): note: 請參閱 'Battle::print' 的宣告
+c:\users\user\desktop\計算機概論\大一下\hw11_e24116071\hw11_e24116071\battle.cpp(208): error C2352: 'Battle::print': 非靜態成員函式的呼叫不合法
+  c:\users\user\desktop\計算機概論\大一下\hw11_e24116071\hw11_e24116071\battle.h(39): note: 請參閱 'Battle::print' 的宣告
+c:\users\user\desktop\計算機概論\大一下\hw11_e24116071\hw11_e24116071\battle.cpp(212): error C2597: 參考非靜態成員 'Battle::ActionList' 是不合法的
+c:\users\user\desktop\計算機概論\大一下\hw11_e24116071\hw11_e24116071\battle.cpp(212): error C3867: 'Battle::ActionList': 非標準語法; 請使用 '&' 建立成員的指標
+c:\users\user\desktop\計算機概論\大一下\hw11_e24116071\hw11_e24116071\battle.cpp(212): error C2109: 註標必須使用在陣列或指標類型上
+c:\users\user\desktop\計算機概論\大一下\hw11_e24116071\hw11_e24116071\battle.cpp(213): error C2597: 參考非靜態成員 'Battle::ActionList' 是不合法的
+c:\users\user\desktop\計算機概論\大一下\hw11_e24116071\hw11_e24116071\battle.cpp(213): error C3867: 'Battle::ActionList': 非標準語法; 請使用 '&' 建立成員的指標
+c:\users\user\desktop\計算機概論\大一下\hw11_e24116071\hw11_e24116071\battle.cpp(213): error C2109: 註標必須使用在陣列或指標類型上
+c:\users\user\desktop\計算機概論\大一下\hw11_e24116071\hw11_e24116071\battle.cpp(214): warning C4244: '引數': 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+c:\users\user\desktop\計算機概論\大一下\hw11_e24116071\hw11_e24116071\battle.cpp(217): error C2597: 參考非靜態成員 'Battle::ActionList' 是不合法的
+c:\users\user\desktop\計算機概論\大一下\hw11_e24116071\hw11_e24116071\battle.cpp(217): error C3867: 'Battle::ActionList': 非標準語法; 請使用 '&' 建立成員的指標
+c:\users\user\desktop\計算機概論\大一下\hw11_e24116071\hw11_e24116071\battle.cpp(217): error C2109: 註標必須使用在陣列或指標類型上
+c:\users\user\desktop\計算機概論\大一下\hw11_e24116071\hw11_e24116071\battle.cpp(227): error C2352: 'Battle::print': 非靜態成員函式的呼叫不合法
+  c:\users\user\desktop\計算機概論\大一下\hw11_e24116071\hw11_e24116071\battle.h(39): note: 請參閱 'Battle::print' 的宣告
+c:\users\user\desktop\計算機概論\大一下\hw11_e24116071\hw11_e24116071\battle.cpp(231): error C2352: 'Battle::result': 非靜態成員函式的呼叫不合法
+  c:\users\user\desktop\計算機概論\大一下\hw11_e24116071\hw11_e24116071\battle.h(35): note: 請參閱 'Battle::result' 的宣告
+c:\users\user\desktop\計算機概論\大一下\hw11_e24116071\hw11_e24116071\battle.cpp(241): error C2352: 'Battle::print': 非靜態成員函式的呼叫不合法
+  c:\users\user\desktop\計算機概論\大一下\hw11_e24116071\hw11_e24116071\battle.h(39): note: 請參閱 'Battle::print' 的宣告
+c:\users\user\desktop\計算機概論\大一下\hw11_e24116071\hw11_e24116071\battle.cpp(246): error C2597: 參考非靜態成員 'Battle::ActionList' 是不合法的
+c:\users\user\desktop\計算機概論\大一下\hw11_e24116071\hw11_e24116071\battle.cpp(246): error C3867: 'Battle::ActionList': 非標準語法; 請使用 '&' 建立成員的指標
+c:\users\user\desktop\計算機概論\大一下\hw11_e24116071\hw11_e24116071\battle.cpp(246): error C2109: 註標必須使用在陣列或指標類型上
+c:\users\user\desktop\計算機概論\大一下\hw11_e24116071\hw11_e24116071\battle.cpp(253): error C2352: 'Battle::print': 非靜態成員函式的呼叫不合法
+  c:\users\user\desktop\計算機概論\大一下\hw11_e24116071\hw11_e24116071\battle.h(39): note: 請參閱 'Battle::print' 的宣告
+c:\users\user\desktop\計算機概論\大一下\hw11_e24116071\hw11_e24116071\battle.cpp(260): error C2352: 'Battle::result': 非靜態成員函式的呼叫不合法
+  c:\users\user\desktop\計算機概論\大一下\hw11_e24116071\hw11_e24116071\battle.h(35): note: 請參閱 'Battle::result' 的宣告
+c:\users\user\desktop\計算機概論\大一下\hw11_e24116071\hw11_e24116071\battle.cpp(261): error C2597: 參考非靜態成員 'Battle::turn' 是不合法的
+c:\users\user\desktop\計算機概論\大一下\hw11_e24116071\hw11_e24116071\battle.cpp(261): error C3867: 'Battle::turn': 非標準語法; 請使用 '&' 建立成員的指標
+c:\users\user\desktop\計算機概論\大一下\hw11_e24116071\hw11_e24116071\battle.cpp(261): error C2105: '++' 需要左值 (l-value)
+c:\users\user\desktop\計算機概論\大一下\hw11_e24116071\hw11_e24116071\battle.cpp(270): error C2597: 參考非靜態成員 'Battle::ActionList' 是不合法的
+c:\users\user\desktop\計算機概論\大一下\hw11_e24116071\hw11_e24116071\battle.cpp(270): error C3867: 'Battle::ActionList': 非標準語法; 請使用 '&' 建立成員的指標
+c:\users\user\desktop\計算機概論\大一下\hw11_e24116071\hw11_e24116071\battle.cpp(270): error C2109: 註標必須使用在陣列或指標類型上
+c:\users\user\desktop\計算機概論\大一下\hw11_e24116071\hw11_e24116071\battle.cpp(270): fatal error C1003: 錯誤計數超過 100; 停止編譯
+  Cloak.cpp
+c:\users\user\desktop\計算機概論\大一下\hw11_e24116071\hw11_e24116071\orcplayer.h(6): error C2504: 'NovicePlayer': 基底類別未定義
+c:\users\user\desktop\計算機概論\大一下\hw11_e24116071\hw11_e24116071\orcplayer.h(14): error C2143: 語法錯誤: 遺漏 ';' (在 '*' 之前)
+c:\users\user\desktop\計算機概論\大一下\hw11_e24116071\hw11_e24116071\orcplayer.h(14): error C4430: 遺漏類型規範 - 假設為 int。注意: C++ 不支援 default-int
+c:\users\user\desktop\計算機概論\大一下\hw11_e24116071\hw11_e24116071\orcplayer.h(14): error C2238: 在 ';' 之前有未預期的語彙基元
+c:\users\user\desktop\計算機概論\大一下\hw11_e24116071\hw11_e24116071\knightplayer.h(6): error C2504: 'NovicePlayer': 基底類別未定義
+c:\users\user\desktop\計算機概論\大一下\hw11_e24116071\hw11_e24116071\knightplayer.h(13): error C2061: 語法錯誤: 識別項 'NovicePlayer'
+c:\users\user\desktop\計算機概論\大一下\hw11_e24116071\hw11_e24116071\knightplayer.h(15): error C2143: 語法錯誤: 遺漏 ';' (在 '*' 之前)
+c:\users\user\desktop\計算機概論\大一下\hw11_e24116071\hw11_e24116071\knightplayer.h(15): error C4430: 遺漏類型規範 - 假設為 int。注意: C++ 不支援 default-int
+c:\users\user\desktop\計算機概論\大一下\hw11_e24116071\hw11_e24116071\knightplayer.h(15): error C2238: 在 ';' 之前有未預期的語彙基元
+c:\users\user\desktop\計算機概論\大一下\hw11_e24116071\hw11_e24116071\magicianplayer.h(7): error C2504: 'NovicePlayer': 基底類別未定義
+c:\users\user\desktop\計算機概論\大一下\hw11_e24116071\hw11_e24116071\magicianplayer.h(16): error C2143: 語法錯誤: 遺漏 ';' (在 '*' 之前)
+c:\users\user\desktop\計算機概論\大一下\hw11_e24116071\hw11_e24116071\magicianplayer.h(16): error C4430: 遺漏類型規範 - 假設為 int。注意: C++ 不支援 default-int
+c:\users\user\desktop\計算機概論\大一下\hw11_e24116071\hw11_e24116071\magicianplayer.h(16): error C2238: 在 ';' 之前有未預期的語彙基元
+c:\users\user\desktop\計算機概論\大一下\hw11_e24116071\hw11_e24116071\battle.h(33): error C2065: 'NovicePlayer': 未宣告的識別項
+c:\users\user\desktop\計算機概論\大一下\hw11_e24116071\hw11_e24116071\battle.h(33): error C2059: 語法錯誤: '>'
+c:\users\user\desktop\計算機概論\大一下\hw11_e24116071\hw11_e24116071\consumableitem.h(13): error C4430: 遺漏類型規範 - 假設為 int。注意: C++ 不支援 default-int
+c:\users\user\desktop\計算機概論\大一下\hw11_e24116071\hw11_e24116071\consumableitem.h(13): error C2143: 語法錯誤: 遺漏 ',' (在 '*' 之前)
+c:\users\user\desktop\計算機概論\大一下\hw11_e24116071\hw11_e24116071\noviceplayer.h(67): error C2143: 語法錯誤: 遺漏 ';' (在 '*' 之前)
+c:\users\user\desktop\計算機概論\大一下\hw11_e24116071\hw11_e24116071\noviceplayer.h(67): error C4430: 遺漏類型規範 - 假設為 int。注意: C++ 不支援 default-int
+c:\users\user\desktop\計算機概論\大一下\hw11_e24116071\hw11_e24116071\noviceplayer.h(67): error C2238: 在 ';' 之前有未預期的語彙基元
+c:\users\user\desktop\計算機概論\大一下\hw11_e24116071\hw11_e24116071\noviceplayer.h(69): error C2061: 語法錯誤: 識別項 'ArmorItem'
+  ConsumableItem.cpp
+c:\users\user\desktop\計算機概論\大一下\hw11_e24116071\hw11_e24116071\orcplayer.h(6): error C2504: 'NovicePlayer': 基底類別未定義
+c:\users\user\desktop\計算機概論\大一下\hw11_e24116071\hw11_e24116071\orcplayer.h(14): error C2143: 語法錯誤: 遺漏 ';' (在 '*' 之前)
+c:\users\user\desktop\計算機概論\大一下\hw11_e24116071\hw11_e24116071\orcplayer.h(14): error C4430: 遺漏類型規範 - 假設為 int。注意: C++ 不支援 default-int
+c:\users\user\desktop\計算機概論\大一下\hw11_e24116071\hw11_e24116071\orcplayer.h(14): error C2238: 在 ';' 之前有未預期的語彙基元
+c:\users\user\desktop\計算機概論\大一下\hw11_e24116071\hw11_e24116071\knightplayer.h(6): error C2504: 'NovicePlayer': 基底類別未定義
+c:\users\user\desktop\計算機概論\大一下\hw11_e24116071\hw11_e24116071\knightplayer.h(13): error C2061: 語法錯誤: 識別項 'NovicePlayer'
+c:\users\user\desktop\計算機概論\大一下\hw11_e24116071\hw11_e24116071\knightplayer.h(15): error C2143: 語法錯誤: 遺漏 ';' (在 '*' 之前)
+c:\users\user\desktop\計算機概論\大一下\hw11_e24116071\hw11_e24116071\knightplayer.h(15): error C4430: 遺漏類型規範 - 假設為 int。注意: C++ 不支援 default-int
+c:\users\user\desktop\計算機概論\大一下\hw11_e24116071\hw11_e24116071\knightplayer.h(15): error C2238: 在 ';' 之前有未預期的語彙基元
+c:\users\user\desktop\計算機概論\大一下\hw11_e24116071\hw11_e24116071\magicianplayer.h(7): error C2504: 'NovicePlayer': 基底類別未定義
+c:\users\user\desktop\計算機概論\大一下\hw11_e24116071\hw11_e24116071\magicianplayer.h(16): error C2143: 語法錯誤: 遺漏 ';' (在 '*' 之前)
+c:\users\user\desktop\計算機概論\大一下\hw11_e24116071\hw11_e24116071\magicianplayer.h(16): error C4430: 遺漏類型規範 - 假設為 int。注意: C++ 不支援 default-int
+c:\users\user\desktop\計算機概論\大一下\hw11_e24116071\hw11_e24116071\magicianplayer.h(16): error C2238: 在 ';' 之前有未預期的語彙基元
+c:\users\user\desktop\計算機概論\大一下\hw11_e24116071\hw11_e24116071\battle.h(33): error C2065: 'NovicePlayer': 未宣告的識別項
+c:\users\user\desktop\計算機概論\大一下\hw11_e24116071\hw11_e24116071\battle.h(33): error C2059: 語法錯誤: '>'
+c:\users\user\desktop\計算機概論\大一下\hw11_e24116071\hw11_e24116071\consumableitem.h(13): error C4430: 遺漏類型規範 - 假設為 int。注意: C++ 不支援 default-int
+c:\users\user\desktop\計算機概論\大一下\hw11_e24116071\hw11_e24116071\consumableitem.h(13): error C2143: 語法錯誤: 遺漏 ',' (在 '*' 之前)
+c:\users\user\desktop\計算機概論\大一下\hw11_e24116071\hw11_e24116071\consumableitem.cpp(13): error C2511: 'void ConsumableItem::use(const NovicePlayer *)': 在 'ConsumableItem' 找不到多載成員函式
+  c:\users\user\desktop\計算機概論\大一下\hw11_e24116071\hw11_e24116071\consumableitem.h(9): note: 請參閱 'ConsumableItem' 的宣告
+  field.cpp
+c:\users\user\desktop\計算機概論\大一下\hw11_e24116071\hw11_e24116071\orcplayer.h(6): error C2504: 'NovicePlayer': 基底類別未定義
+c:\users\user\desktop\計算機概論\大一下\hw11_e24116071\hw11_e24116071\orcplayer.h(14): error C2143: 語法錯誤: 遺漏 ';' (在 '*' 之前)
+c:\users\user\desktop\計算機概論\大一下\hw11_e24116071\hw11_e24116071\orcplayer.h(14): error C4430: 遺漏類型規範 - 假設為 int。注意: C++ 不支援 default-int
+c:\users\user\desktop\計算機概論\大一下\hw11_e24116071\hw11_e24116071\orcplayer.h(14): error C2238: 在 ';' 之前有未預期的語彙基元
+c:\users\user\desktop\計算機概論\大一下\hw11_e24116071\hw11_e24116071\knightplayer.h(6): error C2504: 'NovicePlayer': 基底類別未定義
+c:\users\user\desktop\計算機概論\大一下\hw11_e24116071\hw11_e24116071\knightplayer.h(13): error C2061: 語法錯誤: 識別項 'NovicePlayer'
+c:\users\user\desktop\計算機概論\大一下\hw11_e24116071\hw11_e24116071\knightplayer.h(15): error C2143: 語法錯誤: 遺漏 ';' (在 '*' 之前)
+c:\users\user\desktop\計算機概論\大一下\hw11_e24116071\hw11_e24116071\knightplayer.h(15): error C4430: 遺漏類型規範 - 假設為 int。注意: C++ 不支援 default-int
+c:\users\user\desktop\計算機概論\大一下\hw11_e24116071\hw11_e24116071\knightplayer.h(15): error C2238: 在 ';' 之前有未預期的語彙基元
+c:\users\user\desktop\計算機概論\大一下\hw11_e24116071\hw11_e24116071\magicianplayer.h(7): error C2504: 'NovicePlayer': 基底類別未定義
+c:\users\user\desktop\計算機概論\大一下\hw11_e24116071\hw11_e24116071\magicianplayer.h(16): error C2143: 語法錯誤: 遺漏 ';' (在 '*' 之前)
+c:\users\user\desktop\計算機概論\大一下\hw11_e24116071\hw11_e24116071\magicianplayer.h(16): error C4430: 遺漏類型規範 - 假設為 int。注意: C++ 不支援 default-int
+c:\users\user\desktop\計算機概論\大一下\hw11_e24116071\hw11_e24116071\magicianplayer.h(16): error C2238: 在 ';' 之前有未預期的語彙基元
+c:\users\user\desktop\計算機概論\大一下\hw11_e24116071\hw11_e24116071\battle.h(33): error C2065: 'NovicePlayer': 未宣告的識別項
+c:\users\user\desktop\計算機概論\大一下\hw11_e24116071\hw11_e24116071\battle.h(33): error C2059: 語法錯誤: '>'
+c:\users\user\desktop\計算機概論\大一下\hw11_e24116071\hw11_e24116071\consumableitem.h(13): error C4430: 遺漏類型規範 - 假設為 int。注意: C++ 不支援 default-int
+c:\users\user\desktop\計算機概論\大一下\hw11_e24116071\hw11_e24116071\consumableitem.h(13): error C2143: 語法錯誤: 遺漏 ',' (在 '*' 之前)
+c:\users\user\desktop\計算機概論\大一下\hw11_e24116071\hw11_e24116071\field.cpp(82): warning C4018: '<': signed/unsigned 不相符
+c:\users\user\desktop\計算機概論\大一下\hw11_e24116071\hw11_e24116071\field.cpp(487): error C2664: 'void std::vector<NovicePlayer *,std::allocator<_Ty>>::push_back(_Ty &&)': 無法將引數 1 從 'KnightPlayer *' 轉換為 'const _Ty &'
+          with
+          [
+              _Ty=NovicePlayer *
+          ]
+  c:\users\user\desktop\計算機概論\大一下\hw11_e24116071\hw11_e24116071\field.cpp(487): note: 原因: 無法從 'KnightPlayer *'轉換為 'const _Ty'
+          with
+          [
+              _Ty=NovicePlayer *
+          ]
+  c:\users\user\desktop\計算機概論\大一下\hw11_e24116071\hw11_e24116071\field.cpp(487): note: 指向的類型沒有相關; 轉換必須有 reinterpret_cast、C-Style 轉換或函式樣式轉換
+c:\users\user\desktop\計算機概論\大一下\hw11_e24116071\hw11_e24116071\field.cpp(491): error C2664: 'void std::vector<NovicePlayer *,std::allocator<_Ty>>::push_back(_Ty &&)': 無法將引數 1 從 'OrcPlayer *' 轉換為 'const _Ty &'
+          with
+          [
+              _Ty=NovicePlayer *
+          ]
+  c:\users\user\desktop\計算機概論\大一下\hw11_e24116071\hw11_e24116071\field.cpp(491): note: 原因: 無法從 'OrcPlayer *'轉換為 'const _Ty'
+          with
+          [
+              _Ty=NovicePlayer *
+          ]
+  c:\users\user\desktop\計算機概論\大一下\hw11_e24116071\hw11_e24116071\field.cpp(491): note: 指向的類型沒有相關; 轉換必須有 reinterpret_cast、C-Style 轉換或函式樣式轉換
+c:\users\user\desktop\計算機概論\大一下\hw11_e24116071\hw11_e24116071\field.cpp(495): error C2664: 'void std::vector<NovicePlayer *,std::allocator<_Ty>>::push_back(_Ty &&)': 無法將引數 1 從 'MagicianPlayer *' 轉換為 'const _Ty &'
+          with
+          [
+              _Ty=NovicePlayer *
+          ]
+  c:\users\user\desktop\計算機概論\大一下\hw11_e24116071\hw11_e24116071\field.cpp(495): note: 原因: 無法從 'MagicianPlayer *'轉換為 'const _Ty'
+          with
+          [
+              _Ty=NovicePlayer *
+          ]
+  c:\users\user\desktop\計算機概論\大一下\hw11_e24116071\hw11_e24116071\field.cpp(495): note: 指向的類型沒有相關; 轉換必須有 reinterpret_cast、C-Style 轉換或函式樣式轉換
+c:\users\user\desktop\計算機概論\大一下\hw11_e24116071\hw11_e24116071\field.cpp(499): error C2664: 'Battle::Battle(const Battle &)': 無法將引數 1 從 'std::vector<NovicePlayer *,std::allocator<_Ty>>' 轉換為 'unknown-type'
+          with
+          [
+              _Ty=NovicePlayer *
+          ]
+c:\users\user\desktop\計算機概論\大一下\hw11_e24116071\hw11_e24116071\field.cpp(515): error C2664: 'Battle::Battle(const Battle &)': 無法將引數 1 從 'std::vector<NovicePlayer *,std::allocator<_Ty>>' 轉換為 'unknown-type'
+          with
+          [
+              _Ty=NovicePlayer *
+          ]
+c:\users\user\desktop\計算機概論\大一下\hw11_e24116071\hw11_e24116071\field.cpp(564): error C2664: 'void std::vector<NovicePlayer *,std::allocator<_Ty>>::push_back(_Ty &&)': 無法將引數 1 從 'KnightPlayer *' 轉換為 'const _Ty &'
+          with
+          [
+              _Ty=NovicePlayer *
+          ]
+  c:\users\user\desktop\計算機概論\大一下\hw11_e24116071\hw11_e24116071\field.cpp(564): note: 原因: 無法從 'KnightPlayer *'轉換為 'const _Ty'
+          with
+          [
+              _Ty=NovicePlayer *
+          ]
+  c:\users\user\desktop\計算機概論\大一下\hw11_e24116071\hw11_e24116071\field.cpp(564): note: 指向的類型沒有相關; 轉換必須有 reinterpret_cast、C-Style 轉換或函式樣式轉換
+c:\users\user\desktop\計算機概論\大一下\hw11_e24116071\hw11_e24116071\field.cpp(568): error C2664: 'void std::vector<NovicePlayer *,std::allocator<_Ty>>::push_back(_Ty &&)': 無法將引數 1 從 'OrcPlayer *' 轉換為 'const _Ty &'
+          with
+          [
+              _Ty=NovicePlayer *
+          ]
+  c:\users\user\desktop\計算機概論\大一下\hw11_e24116071\hw11_e24116071\field.cpp(568): note: 原因: 無法從 'OrcPlayer *'轉換為 'const _Ty'
+          with
+          [
+              _Ty=NovicePlayer *
+          ]
+  c:\users\user\desktop\計算機概論\大一下\hw11_e24116071\hw11_e24116071\field.cpp(568): note: 指向的類型沒有相關; 轉換必須有 reinterpret_cast、C-Style 轉換或函式樣式轉換
+c:\users\user\desktop\計算機概論\大一下\hw11_e24116071\hw11_e24116071\field.cpp(572): error C2664: 'void std::vector<NovicePlayer *,std::allocator<_Ty>>::push_back(_Ty &&)': 無法將引數 1 從 'MagicianPlayer *' 轉換為 'const _Ty &'
+          with
+          [
+              _Ty=NovicePlayer *
+          ]
+  c:\users\user\desktop\計算機概論\大一下\hw11_e24116071\hw11_e24116071\field.cpp(572): note: 原因: 無法從 'MagicianPlayer *'轉換為 'const _Ty'
+          with
+          [
+              _Ty=NovicePlayer *
+          ]
+  c:\users\user\desktop\計算機概論\大一下\hw11_e24116071\hw11_e24116071\field.cpp(572): note: 指向的類型沒有相關; 轉換必須有 reinterpret_cast、C-Style 轉換或函式樣式轉換
+c:\users\user\desktop\計算機概論\大一下\hw11_e24116071\hw11_e24116071\field.cpp(576): error C2664: 'Battle::Battle(const Battle &)': 無法將引數 1 從 'std::vector<NovicePlayer *,std::allocator<_Ty>>' 轉換為 'unknown-type'
+          with
+          [
+              _Ty=NovicePlayer *
+          ]
+c:\users\user\desktop\計算機概論\大一下\hw11_e24116071\hw11_e24116071\field.cpp(592): error C2664: 'Battle::Battle(const Battle &)': 無法將引數 1 從 'std::vector<NovicePlayer *,std::allocator<_Ty>>' 轉換為 'unknown-type'
+          with
+          [
+              _Ty=NovicePlayer *
+          ]
+c:\users\user\desktop\計算機概論\大一下\hw11_e24116071\hw11_e24116071\field.cpp(641): error C2664: 'void std::vector<NovicePlayer *,std::allocator<_Ty>>::push_back(_Ty &&)': 無法將引數 1 從 'KnightPlayer *' 轉換為 'const _Ty &'
+          with
+          [
+              _Ty=NovicePlayer *
+          ]
+  c:\users\user\desktop\計算機概論\大一下\hw11_e24116071\hw11_e24116071\field.cpp(641): note: 原因: 無法從 'KnightPlayer *'轉換為 'const _Ty'
+          with
+          [
+              _Ty=NovicePlayer *
+          ]
+  c:\users\user\desktop\計算機概論\大一下\hw11_e24116071\hw11_e24116071\field.cpp(641): note: 指向的類型沒有相關; 轉換必須有 reinterpret_cast、C-Style 轉換或函式樣式轉換
+c:\users\user\desktop\計算機概論\大一下\hw11_e24116071\hw11_e24116071\field.cpp(645): error C2664: 'void std::vector<NovicePlayer *,std::allocator<_Ty>>::push_back(_Ty &&)': 無法將引數 1 從 'OrcPlayer *' 轉換為 'const _Ty &'
+          with
+          [
+              _Ty=NovicePlayer *
+          ]
+  c:\users\user\desktop\計算機概論\大一下\hw11_e24116071\hw11_e24116071\field.cpp(645): note: 原因: 無法從 'OrcPlayer *'轉換為 'const _Ty'
+          with
+          [
+              _Ty=NovicePlayer *
+          ]
+  c:\users\user\desktop\計算機概論\大一下\hw11_e24116071\hw11_e24116071\field.cpp(645): note: 指向的類型沒有相關; 轉換必須有 reinterpret_cast、C-Style 轉換或函式樣式轉換
+c:\users\user\desktop\計算機概論\大一下\hw11_e24116071\hw11_e24116071\field.cpp(649): error C2664: 'void std::vector<NovicePlayer *,std::allocator<_Ty>>::push_back(_Ty &&)': 無法將引數 1 從 'MagicianPlayer *' 轉換為 'const _Ty &'
+          with
+          [
+              _Ty=NovicePlayer *
+          ]
+  c:\users\user\desktop\計算機概論\大一下\hw11_e24116071\hw11_e24116071\field.cpp(649): note: 原因: 無法從 'MagicianPlayer *'轉換為 'const _Ty'
+          with
+          [
+              _Ty=NovicePlayer *
+          ]
+  c:\users\user\desktop\計算機概論\大一下\hw11_e24116071\hw11_e24116071\field.cpp(649): note: 指向的類型沒有相關; 轉換必須有 reinterpret_cast、C-Style 轉換或函式樣式轉換
+c:\users\user\desktop\計算機概論\大一下\hw11_e24116071\hw11_e24116071\field.cpp(653): error C2664: 'Battle::Battle(const Battle &)': 無法將引數 1 從 'std::vector<NovicePlayer *,std::allocator<_Ty>>' 轉換為 'unknown-type'
+          with
+          [
+              _Ty=NovicePlayer *
+          ]
+c:\users\user\desktop\計算機概論\大一下\hw11_e24116071\hw11_e24116071\field.cpp(669): error C2664: 'Battle::Battle(const Battle &)': 無法將引數 1 從 'std::vector<NovicePlayer *,std::allocator<_Ty>>' 轉換為 'unknown-type'
+          with
+          [
+              _Ty=NovicePlayer *
+          ]
+c:\users\user\desktop\計算機概論\大一下\hw11_e24116071\hw11_e24116071\field.cpp(718): error C2664: 'void std::vector<NovicePlayer *,std::allocator<_Ty>>::push_back(_Ty &&)': 無法將引數 1 從 'KnightPlayer *' 轉換為 'const _Ty &'
+          with
+          [
+              _Ty=NovicePlayer *
+          ]
+  c:\users\user\desktop\計算機概論\大一下\hw11_e24116071\hw11_e24116071\field.cpp(718): note: 原因: 無法從 'KnightPlayer *'轉換為 'const _Ty'
+          with
+          [
+              _Ty=NovicePlayer *
+          ]
+  c:\users\user\desktop\計算機概論\大一下\hw11_e24116071\hw11_e24116071\field.cpp(718): note: 指向的類型沒有相關; 轉換必須有 reinterpret_cast、C-Style 轉換或函式樣式轉換
+c:\users\user\desktop\計算機概論\大一下\hw11_e24116071\hw11_e24116071\field.cpp(722): error C2664: 'void std::vector<NovicePlayer *,std::allocator<_Ty>>::push_back(_Ty &&)': 無法將引數 1 從 'OrcPlayer *' 轉換為 'const _Ty &'
+          with
+          [
+              _Ty=NovicePlayer *
+          ]
+  c:\users\user\desktop\計算機概論\大一下\hw11_e24116071\hw11_e24116071\field.cpp(722): note: 原因: 無法從 'OrcPlayer *'轉換為 'const _Ty'
+          with
+          [
+              _Ty=NovicePlayer *
+          ]
+  c:\users\user\desktop\計算機概論\大一下\hw11_e24116071\hw11_e24116071\field.cpp(722): note: 指向的類型沒有相關; 轉換必須有 reinterpret_cast、C-Style 轉換或函式樣式轉換
+c:\users\user\desktop\計算機概論\大一下\hw11_e24116071\hw11_e24116071\field.cpp(726): error C2664: 'void std::vector<NovicePlayer *,std::allocator<_Ty>>::push_back(_Ty &&)': 無法將引數 1 從 'MagicianPlayer *' 轉換為 'const _Ty &'
+          with
+          [
+              _Ty=NovicePlayer *
+          ]
+  c:\users\user\desktop\計算機概論\大一下\hw11_e24116071\hw11_e24116071\field.cpp(726): note: 原因: 無法從 'MagicianPlayer *'轉換為 'const _Ty'
+          with
+          [
+              _Ty=NovicePlayer *
+          ]
+  c:\users\user\desktop\計算機概論\大一下\hw11_e24116071\hw11_e24116071\field.cpp(726): note: 指向的類型沒有相關; 轉換必須有 reinterpret_cast、C-Style 轉換或函式樣式轉換
+c:\users\user\desktop\計算機概論\大一下\hw11_e24116071\hw11_e24116071\field.cpp(730): error C2664: 'Battle::Battle(const Battle &)': 無法將引數 1 從 'std::vector<NovicePlayer *,std::allocator<_Ty>>' 轉換為 'unknown-type'
+          with
+          [
+              _Ty=NovicePlayer *
+          ]
+c:\users\user\desktop\計算機概論\大一下\hw11_e24116071\hw11_e24116071\field.cpp(746): error C2664: 'Battle::Battle(const Battle &)': 無法將引數 1 從 'std::vector<NovicePlayer *,std::allocator<_Ty>>' 轉換為 'unknown-type'
+          with
+          [
+              _Ty=NovicePlayer *
+          ]
+c:\users\user\desktop\計算機概論\大一下\hw11_e24116071\hw11_e24116071\field.cpp(796): error C2664: 'void std::vector<NovicePlayer *,std::allocator<_Ty>>::push_back(_Ty &&)': 無法將引數 1 從 'KnightPlayer *' 轉換為 'const _Ty &'
+          with
+          [
+              _Ty=NovicePlayer *
+          ]
+  c:\users\user\desktop\計算機概論\大一下\hw11_e24116071\hw11_e24116071\field.cpp(796): note: 原因: 無法從 'KnightPlayer *'轉換為 'const _Ty'
+          with
+          [
+              _Ty=NovicePlayer *
+          ]
+  c:\users\user\desktop\計算機概論\大一下\hw11_e24116071\hw11_e24116071\field.cpp(796): note: 指向的類型沒有相關; 轉換必須有 reinterpret_cast、C-Style 轉換或函式樣式轉換
+c:\users\user\desktop\計算機概論\大一下\hw11_e24116071\hw11_e24116071\field.cpp(800): error C2664: 'void std::vector<NovicePlayer *,std::allocator<_Ty>>::push_back(_Ty &&)': 無法將引數 1 從 'OrcPlayer *' 轉換為 'const _Ty &'
+          with
+          [
+              _Ty=NovicePlayer *
+          ]
+  c:\users\user\desktop\計算機概論\大一下\hw11_e24116071\hw11_e24116071\field.cpp(800): note: 原因: 無法從 'OrcPlayer *'轉換為 'const _Ty'
+          with
+          [
+              _Ty=NovicePlayer *
+          ]
+  c:\users\user\desktop\計算機概論\大一下\hw11_e24116071\hw11_e24116071\field.cpp(800): note: 指向的類型沒有相關; 轉換必須有 reinterpret_cast、C-Style 轉換或函式樣式轉換
+c:\users\user\desktop\計算機概論\大一下\hw11_e24116071\hw11_e24116071\field.cpp(804): error C2664: 'void std::vector<NovicePlayer *,std::allocator<_Ty>>::push_back(_Ty &&)': 無法將引數 1 從 'MagicianPlayer *' 轉換為 'const _Ty &'
+          with
+          [
+              _Ty=NovicePlayer *
+          ]
+  c:\users\user\desktop\計算機概論\大一下\hw11_e24116071\hw11_e24116071\field.cpp(804): note: 原因: 無法從 'MagicianPlayer *'轉換為 'const _Ty'
+          with
+          [
+              _Ty=NovicePlayer *
+          ]
+  c:\users\user\desktop\計算機概論\大一下\hw11_e24116071\hw11_e24116071\field.cpp(804): note: 指向的類型沒有相關; 轉換必須有 reinterpret_cast、C-Style 轉換或函式樣式轉換
+c:\users\user\desktop\計算機概論\大一下\hw11_e24116071\hw11_e24116071\field.cpp(808): error C2664: 'Battle::Battle(const Battle &)': 無法將引數 1 從 'std::vector<NovicePlayer *,std::allocator<_Ty>>' 轉換為 'unknown-type'
+          with
+          [
+              _Ty=NovicePlayer *
+          ]
+c:\users\user\desktop\計算機概論\大一下\hw11_e24116071\hw11_e24116071\field.cpp(830): error C2664: 'Battle::Battle(const Battle &)': 無法將引數 1 從 'std::vector<NovicePlayer *,std::allocator<_Ty>>' 轉換為 'unknown-type'
+          with
+          [
+              _Ty=NovicePlayer *
+          ]
+  game.cpp
+c:\users\user\desktop\計算機概論\大一下\hw11_e24116071\hw11_e24116071\orcplayer.h(6): error C2504: 'NovicePlayer': 基底類別未定義
+c:\users\user\desktop\計算機概論\大一下\hw11_e24116071\hw11_e24116071\orcplayer.h(14): error C2143: 語法錯誤: 遺漏 ';' (在 '*' 之前)
+c:\users\user\desktop\計算機概論\大一下\hw11_e24116071\hw11_e24116071\orcplayer.h(14): error C4430: 遺漏類型規範 - 假設為 int。注意: C++ 不支援 default-int
+c:\users\user\desktop\計算機概論\大一下\hw11_e24116071\hw11_e24116071\orcplayer.h(14): error C2238: 在 ';' 之前有未預期的語彙基元
+c:\users\user\desktop\計算機概論\大一下\hw11_e24116071\hw11_e24116071\knightplayer.h(6): error C2504: 'NovicePlayer': 基底類別未定義
+c:\users\user\desktop\計算機概論\大一下\hw11_e24116071\hw11_e24116071\knightplayer.h(13): error C2061: 語法錯誤: 識別項 'NovicePlayer'
+c:\users\user\desktop\計算機概論\大一下\hw11_e24116071\hw11_e24116071\knightplayer.h(15): error C2143: 語法錯誤: 遺漏 ';' (在 '*' 之前)
+c:\users\user\desktop\計算機概論\大一下\hw11_e24116071\hw11_e24116071\knightplayer.h(15): error C4430: 遺漏類型規範 - 假設為 int。注意: C++ 不支援 default-int
+c:\users\user\desktop\計算機概論\大一下\hw11_e24116071\hw11_e24116071\knightplayer.h(15): error C2238: 在 ';' 之前有未預期的語彙基元
+c:\users\user\desktop\計算機概論\大一下\hw11_e24116071\hw11_e24116071\magicianplayer.h(7): error C2504: 'NovicePlayer': 基底類別未定義
+c:\users\user\desktop\計算機概論\大一下\hw11_e24116071\hw11_e24116071\magicianplayer.h(16): error C2143: 語法錯誤: 遺漏 ';' (在 '*' 之前)
+c:\users\user\desktop\計算機概論\大一下\hw11_e24116071\hw11_e24116071\magicianplayer.h(16): error C4430: 遺漏類型規範 - 假設為 int。注意: C++ 不支援 default-int
+c:\users\user\desktop\計算機概論\大一下\hw11_e24116071\hw11_e24116071\magicianplayer.h(16): error C2238: 在 ';' 之前有未預期的語彙基元
+c:\users\user\desktop\計算機概論\大一下\hw11_e24116071\hw11_e24116071\battle.h(33): error C2065: 'NovicePlayer': 未宣告的識別項
+c:\users\user\desktop\計算機概論\大一下\hw11_e24116071\hw11_e24116071\battle.h(33): error C2059: 語法錯誤: '>'
+c:\users\user\desktop\計算機概論\大一下\hw11_e24116071\hw11_e24116071\consumableitem.h(13): error C4430: 遺漏類型規範 - 假設為 int。注意: C++ 不支援 default-int
+c:\users\user\desktop\計算機概論\大一下\hw11_e24116071\hw11_e24116071\consumableitem.h(13): error C2143: 語法錯誤: 遺漏 ',' (在 '*' 之前)
+  GoblinMonster.cpp
+  Item.cpp
+c:\users\user\desktop\計算機概論\大一下\hw11_e24116071\hw11_e24116071\orcplayer.h(6): error C2504: 'NovicePlayer': 基底類別未定義
+c:\users\user\desktop\計算機概論\大一下\hw11_e24116071\hw11_e24116071\orcplayer.h(14): error C2143: 語法錯誤: 遺漏 ';' (在 '*' 之前)
+c:\users\user\desktop\計算機概論\大一下\hw11_e24116071\hw11_e24116071\orcplayer.h(14): error C4430: 遺漏類型規範 - 假設為 int。注意: C++ 不支援 default-int
+c:\users\user\desktop\計算機概論\大一下\hw11_e24116071\hw11_e24116071\orcplayer.h(14): error C2238: 在 ';' 之前有未預期的語彙基元
+c:\users\user\desktop\計算機概論\大一下\hw11_e24116071\hw11_e24116071\knightplayer.h(6): error C2504: 'NovicePlayer': 基底類別未定義
+c:\users\user\desktop\計算機概論\大一下\hw11_e24116071\hw11_e24116071\knightplayer.h(13): error C2061: 語法錯誤: 識別項 'NovicePlayer'
+c:\users\user\desktop\計算機概論\大一下\hw11_e24116071\hw11_e24116071\knightplayer.h(15): error C2143: 語法錯誤: 遺漏 ';' (在 '*' 之前)
+c:\users\user\desktop\計算機概論\大一下\hw11_e24116071\hw11_e24116071\knightplayer.h(15): error C4430: 遺漏類型規範 - 假設為 int。注意: C++ 不支援 default-int
+c:\users\user\desktop\計算機概論\大一下\hw11_e24116071\hw11_e24116071\knightplayer.h(15): error C2238: 在 ';' 之前有未預期的語彙基元
+c:\users\user\desktop\計算機概論\大一下\hw11_e24116071\hw11_e24116071\magicianplayer.h(7): error C2504: 'NovicePlayer': 基底類別未定義
+c:\users\user\desktop\計算機概論\大一下\hw11_e24116071\hw11_e24116071\magicianplayer.h(16): error C2143: 語法錯誤: 遺漏 ';' (在 '*' 之前)
+c:\users\user\desktop\計算機概論\大一下\hw11_e24116071\hw11_e24116071\magicianplayer.h(16): error C4430: 遺漏類型規範 - 假設為 int。注意: C++ 不支援 default-int
+c:\users\user\desktop\計算機概論\大一下\hw11_e24116071\hw11_e24116071\magicianplayer.h(16): error C2238: 在 ';' 之前有未預期的語彙基元
+c:\users\user\desktop\計算機概論\大一下\hw11_e24116071\hw11_e24116071\battle.h(33): error C2065: 'NovicePlayer': 未宣告的識別項
+c:\users\user\desktop\計算機概論\大一下\hw11_e24116071\hw11_e24116071\battle.h(33): error C2059: 語法錯誤: '>'
+c:\users\user\desktop\計算機概論\大一下\hw11_e24116071\hw11_e24116071\consumableitem.h(13): error C4430: 遺漏類型規範 - 假設為 int。注意: C++ 不支援 default-int
+c:\users\user\desktop\計算機概論\大一下\hw11_e24116071\hw11_e24116071\consumableitem.h(13): error C2143: 語法錯誤: 遺漏 ',' (在 '*' 之前)
+  JWMonster.cpp
+  KnightPlayer.cpp
+c:\users\user\desktop\計算機概論\大一下\hw11_e24116071\hw11_e24116071\orcplayer.h(6): error C2504: 'NovicePlayer': 基底類別未定義
+c:\users\user\desktop\計算機概論\大一下\hw11_e24116071\hw11_e24116071\orcplayer.h(14): error C2143: 語法錯誤: 遺漏 ';' (在 '*' 之前)
+c:\users\user\desktop\計算機概論\大一下\hw11_e24116071\hw11_e24116071\orcplayer.h(14): error C4430: 遺漏類型規範 - 假設為 int。注意: C++ 不支援 default-int
+c:\users\user\desktop\計算機概論\大一下\hw11_e24116071\hw11_e24116071\orcplayer.h(14): error C2238: 在 ';' 之前有未預期的語彙基元
+c:\users\user\desktop\計算機概論\大一下\hw11_e24116071\hw11_e24116071\knightplayer.h(6): error C2504: 'NovicePlayer': 基底類別未定義
+c:\users\user\desktop\計算機概論\大一下\hw11_e24116071\hw11_e24116071\knightplayer.h(13): error C2061: 語法錯誤: 識別項 'NovicePlayer'
+c:\users\user\desktop\計算機概論\大一下\hw11_e24116071\hw11_e24116071\knightplayer.h(15): error C2143: 語法錯誤: 遺漏 ';' (在 '*' 之前)
+c:\users\user\desktop\計算機概論\大一下\hw11_e24116071\hw11_e24116071\knightplayer.h(15): error C4430: 遺漏類型規範 - 假設為 int。注意: C++ 不支援 default-int
+c:\users\user\desktop\計算機概論\大一下\hw11_e24116071\hw11_e24116071\knightplayer.h(15): error C2238: 在 ';' 之前有未預期的語彙基元
+c:\users\user\desktop\計算機概論\大一下\hw11_e24116071\hw11_e24116071\magicianplayer.h(7): error C2504: 'NovicePlayer': 基底類別未定義
+c:\users\user\desktop\計算機概論\大一下\hw11_e24116071\hw11_e24116071\magicianplayer.h(16): error C2143: 語法錯誤: 遺漏 ';' (在 '*' 之前)
+c:\users\user\desktop\計算機概論\大一下\hw11_e24116071\hw11_e24116071\magicianplayer.h(16): error C4430: 遺漏類型規範 - 假設為 int。注意: C++ 不支援 default-int
+c:\users\user\desktop\計算機概論\大一下\hw11_e24116071\hw11_e24116071\magicianplayer.h(16): error C2238: 在 ';' 之前有未預期的語彙基元
+c:\users\user\desktop\計算機概論\大一下\hw11_e24116071\hw11_e24116071\battle.h(33): error C2065: 'NovicePlayer': 未宣告的識別項
+c:\users\user\desktop\計算機概論\大一下\hw11_e24116071\hw11_e24116071\battle.h(33): error C2059: 語法錯誤: '>'
+c:\users\user\desktop\計算機概論\大一下\hw11_e24116071\hw11_e24116071\consumableitem.h(13): error C4430: 遺漏類型規範 - 假設為 int。注意: C++ 不支援 default-int
+c:\users\user\desktop\計算機概論\大一下\hw11_e24116071\hw11_e24116071\consumableitem.h(13): error C2143: 語法錯誤: 遺漏 ',' (在 '*' 之前)
+c:\users\user\desktop\計算機概論\大一下\hw11_e24116071\hw11_e24116071\knightplayer.cpp(14): error C3861: 'setname': 找不到識別項
+c:\users\user\desktop\計算機概論\大一下\hw11_e24116071\hw11_e24116071\knightplayer.cpp(20): error C3861: 'setname': 找不到識別項
+c:\users\user\desktop\計算機概論\大一下\hw11_e24116071\hw11_e24116071\knightplayer.cpp(26): error C3861: 'setname': 找不到識別項
+c:\users\user\desktop\計算機概論\大一下\hw11_e24116071\hw11_e24116071\knightplayer.cpp(31): error C2039: 'getLevel': 不是 'KnightPlayer' 的成員
+  c:\users\user\desktop\計算機概論\大一下\hw11_e24116071\hw11_e24116071\knightplayer.h(5): note: 請參閱 'KnightPlayer' 的宣告
+c:\users\user\desktop\計算機概論\大一下\hw11_e24116071\hw11_e24116071\knightplayer.cpp(32): error C2039: 'getname': 不是 'KnightPlayer' 的成員
+  c:\users\user\desktop\計算機概論\大一下\hw11_e24116071\hw11_e24116071\knightplayer.h(5): note: 請參閱 'KnightPlayer' 的宣告
+c:\users\user\desktop\計算機概論\大一下\hw11_e24116071\hw11_e24116071\knightplayer.cpp(32): error C3861: 'setname': 找不到識別項
+c:\users\user\desktop\計算機概論\大一下\hw11_e24116071\hw11_e24116071\knightplayer.cpp(38): error C2065: 'level': 未宣告的識別項
+c:\users\user\desktop\計算機概論\大一下\hw11_e24116071\hw11_e24116071\knightplayer.cpp(39): error C2065: 'maxhp': 未宣告的識別項
+c:\users\user\desktop\計算機概論\大一下\hw11_e24116071\hw11_e24116071\knightplayer.cpp(40): error C2065: 'maxmp': 未宣告的識別項
+c:\users\user\desktop\計算機概論\大一下\hw11_e24116071\hw11_e24116071\knightplayer.cpp(41): error C2065: 'attack': 未宣告的識別項
+c:\users\user\desktop\計算機概論\大一下\hw11_e24116071\hw11_e24116071\knightplayer.cpp(42): error C2065: 'defense': 未宣告的識別項
+c:\users\user\desktop\計算機概論\大一下\hw11_e24116071\hw11_e24116071\knightplayer.cpp(43): error C2065: 'lvupexp': 未宣告的識別項
+c:\users\user\desktop\計算機概論\大一下\hw11_e24116071\hw11_e24116071\knightplayer.cpp(43): error C2065: 'level': 未宣告的識別項
+c:\users\user\desktop\計算機概論\大一下\hw11_e24116071\hw11_e24116071\knightplayer.cpp(43): error C2661: 'pow': 多載函式不使用 1 引數
+c:\users\user\desktop\計算機概論\大一下\hw11_e24116071\hw11_e24116071\knightplayer.cpp(44): error C3861: 'sethp': 找不到識別項
+c:\users\user\desktop\計算機概論\大一下\hw11_e24116071\hw11_e24116071\knightplayer.cpp(45): error C3861: 'setmp': 找不到識別項
+c:\users\user\desktop\計算機概論\大一下\hw11_e24116071\hw11_e24116071\knightplayer.cpp(46): error C3861: 'setexp': 找不到識別項
+c:\users\user\desktop\計算機概論\大一下\hw11_e24116071\hw11_e24116071\knightplayer.cpp(47): error C3861: 'getmoney': 找不到識別項
+c:\users\user\desktop\計算機概論\大一下\hw11_e24116071\hw11_e24116071\knightplayer.cpp(47): error C2065: 'level': 未宣告的識別項
+c:\users\user\desktop\計算機概論\大一下\hw11_e24116071\hw11_e24116071\knightplayer.cpp(47): error C2661: 'pow': 多載函式不使用 1 引數
+c:\users\user\desktop\計算機概論\大一下\hw11_e24116071\hw11_e24116071\knightplayer.cpp(47): error C3861: 'setmoney': 找不到識別項
+c:\users\user\desktop\計算機概論\大一下\hw11_e24116071\hw11_e24116071\knightplayer.cpp(51): error C2065: 'p': 未宣告的識別項
+c:\users\user\desktop\計算機概論\大一下\hw11_e24116071\hw11_e24116071\knightplayer.cpp(51): error C2761: 'void KnightPlayer::specialSkill(void)': 不允許重新宣告成員
+c:\users\user\desktop\計算機概論\大一下\hw11_e24116071\hw11_e24116071\knightplayer.cpp(52): error C2448: 'KnightPlayer::specialSkill': 函式樣式初始設定式似乎是函式定義
+c:\users\user\desktop\計算機概論\大一下\hw11_e24116071\hw11_e24116071\knightplayer.cpp(67): error C3861: 'getname': 找不到識別項
+c:\users\user\desktop\計算機概論\大一下\hw11_e24116071\hw11_e24116071\knightplayer.cpp(68): error C3861: 'gethp': 找不到識別項
+c:\users\user\desktop\計算機概論\大一下\hw11_e24116071\hw11_e24116071\knightplayer.cpp(69): error C3861: 'getmp': 找不到識別項
+c:\users\user\desktop\計算機概論\大一下\hw11_e24116071\hw11_e24116071\knightplayer.cpp(70): error C3861: 'getexp': 找不到識別項
+c:\users\user\desktop\計算機概論\大一下\hw11_e24116071\hw11_e24116071\knightplayer.cpp(71): error C3861: 'getmoney': 找不到識別項
+c:\users\user\desktop\計算機概論\大一下\hw11_e24116071\hw11_e24116071\knightplayer.cpp(72): error C3861: 'getLevel': 找不到識別項
+c:\users\user\desktop\計算機概論\大一下\hw11_e24116071\hw11_e24116071\knightplayer.cpp(77): error C2039: 'unserialize': 不是 'KnightPlayer' 的成員
+  c:\users\user\desktop\計算機概論\大一下\hw11_e24116071\hw11_e24116071\knightplayer.h(5): note: 請參閱 'KnightPlayer' 的宣告
+c:\users\user\desktop\計算機概論\大一下\hw11_e24116071\hw11_e24116071\knightplayer.cpp(101): error C2440: '正在初始化': 無法由 'KnightPlayer *' 轉換為 'NovicePlayer *'
+  c:\users\user\desktop\計算機概論\大一下\hw11_e24116071\hw11_e24116071\knightplayer.cpp(101): note: 指向的類型沒有相關; 轉換必須有 reinterpret_cast、C-Style 轉換或函式樣式轉換
+  LifePotion.cpp
+c:\users\user\desktop\計算機概論\大一下\hw11_e24116071\hw11_e24116071\orcplayer.h(6): error C2504: 'NovicePlayer': 基底類別未定義
+c:\users\user\desktop\計算機概論\大一下\hw11_e24116071\hw11_e24116071\orcplayer.h(14): error C2143: 語法錯誤: 遺漏 ';' (在 '*' 之前)
+c:\users\user\desktop\計算機概論\大一下\hw11_e24116071\hw11_e24116071\orcplayer.h(14): error C4430: 遺漏類型規範 - 假設為 int。注意: C++ 不支援 default-int
+c:\users\user\desktop\計算機概論\大一下\hw11_e24116071\hw11_e24116071\orcplayer.h(14): error C2238: 在 ';' 之前有未預期的語彙基元
+c:\users\user\desktop\計算機概論\大一下\hw11_e24116071\hw11_e24116071\knightplayer.h(6): error C2504: 'NovicePlayer': 基底類別未定義
+c:\users\user\desktop\計算機概論\大一下\hw11_e24116071\hw11_e24116071\knightplayer.h(13): error C2061: 語法錯誤: 識別項 'NovicePlayer'
+c:\users\user\desktop\計算機概論\大一下\hw11_e24116071\hw11_e24116071\knightplayer.h(15): error C2143: 語法錯誤: 遺漏 ';' (在 '*' 之前)
+c:\users\user\desktop\計算機概論\大一下\hw11_e24116071\hw11_e24116071\knightplayer.h(15): error C4430: 遺漏類型規範 - 假設為 int。注意: C++ 不支援 default-int
+c:\users\user\desktop\計算機概論\大一下\hw11_e24116071\hw11_e24116071\knightplayer.h(15): error C2238: 在 ';' 之前有未預期的語彙基元
+c:\users\user\desktop\計算機概論\大一下\hw11_e24116071\hw11_e24116071\magicianplayer.h(7): error C2504: 'NovicePlayer': 基底類別未定義
+c:\users\user\desktop\計算機概論\大一下\hw11_e24116071\hw11_e24116071\magicianplayer.h(16): error C2143: 語法錯誤: 遺漏 ';' (在 '*' 之前)
+c:\users\user\desktop\計算機概論\大一下\hw11_e24116071\hw11_e24116071\magicianplayer.h(16): error C4430: 遺漏類型規範 - 假設為 int。注意: C++ 不支援 default-int
+c:\users\user\desktop\計算機概論\大一下\hw11_e24116071\hw11_e24116071\magicianplayer.h(16): error C2238: 在 ';' 之前有未預期的語彙基元
+c:\users\user\desktop\計算機概論\大一下\hw11_e24116071\hw11_e24116071\battle.h(33): error C2065: 'NovicePlayer': 未宣告的識別項
+c:\users\user\desktop\計算機概論\大一下\hw11_e24116071\hw11_e24116071\battle.h(33): error C2059: 語法錯誤: '>'
+c:\users\user\desktop\計算機概論\大一下\hw11_e24116071\hw11_e24116071\consumableitem.h(13): error C4430: 遺漏類型規範 - 假設為 int。注意: C++ 不支援 default-int
+c:\users\user\desktop\計算機概論\大一下\hw11_e24116071\hw11_e24116071\consumableitem.h(13): error C2143: 語法錯誤: 遺漏 ',' (在 '*' 之前)
+  MagicianPlayer.cpp
+c:\users\user\desktop\計算機概論\大一下\hw11_e24116071\hw11_e24116071\orcplayer.h(6): error C2504: 'NovicePlayer': 基底類別未定義
+c:\users\user\desktop\計算機概論\大一下\hw11_e24116071\hw11_e24116071\orcplayer.h(14): error C2143: 語法錯誤: 遺漏 ';' (在 '*' 之前)
+c:\users\user\desktop\計算機概論\大一下\hw11_e24116071\hw11_e24116071\orcplayer.h(14): error C4430: 遺漏類型規範 - 假設為 int。注意: C++ 不支援 default-int
+c:\users\user\desktop\計算機概論\大一下\hw11_e24116071\hw11_e24116071\orcplayer.h(14): error C2238: 在 ';' 之前有未預期的語彙基元
+c:\users\user\desktop\計算機概論\大一下\hw11_e24116071\hw11_e24116071\knightplayer.h(6): error C2504: 'NovicePlayer': 基底類別未定義
+c:\users\user\desktop\計算機概論\大一下\hw11_e24116071\hw11_e24116071\knightplayer.h(13): error C2061: 語法錯誤: 識別項 'NovicePlayer'
+c:\users\user\desktop\計算機概論\大一下\hw11_e24116071\hw11_e24116071\knightplayer.h(15): error C2143: 語法錯誤: 遺漏 ';' (在 '*' 之前)
+c:\users\user\desktop\計算機概論\大一下\hw11_e24116071\hw11_e24116071\knightplayer.h(15): error C4430: 遺漏類型規範 - 假設為 int。注意: C++ 不支援 default-int
+c:\users\user\desktop\計算機概論\大一下\hw11_e24116071\hw11_e24116071\knightplayer.h(15): error C2238: 在 ';' 之前有未預期的語彙基元
+c:\users\user\desktop\計算機概論\大一下\hw11_e24116071\hw11_e24116071\magicianplayer.h(7): error C2504: 'NovicePlayer': 基底類別未定義
+c:\users\user\desktop\計算機概論\大一下\hw11_e24116071\hw11_e24116071\magicianplayer.h(16): error C2143: 語法錯誤: 遺漏 ';' (在 '*' 之前)
+c:\users\user\desktop\計算機概論\大一下\hw11_e24116071\hw11_e24116071\magicianplayer.h(16): error C4430: 遺漏類型規範 - 假設為 int。注意: C++ 不支援 default-int
+c:\users\user\desktop\計算機概論\大一下\hw11_e24116071\hw11_e24116071\magicianplayer.h(16): error C2238: 在 ';' 之前有未預期的語彙基元
+c:\users\user\desktop\計算機概論\大一下\hw11_e24116071\hw11_e24116071\battle.h(33): error C2065: 'NovicePlayer': 未宣告的識別項
+c:\users\user\desktop\計算機概論\大一下\hw11_e24116071\hw11_e24116071\battle.h(33): error C2059: 語法錯誤: '>'
+c:\users\user\desktop\計算機概論\大一下\hw11_e24116071\hw11_e24116071\consumableitem.h(13): error C4430: 遺漏類型規範 - 假設為 int。注意: C++ 不支援 default-int
+c:\users\user\desktop\計算機概論\大一下\hw11_e24116071\hw11_e24116071\consumableitem.h(13): error C2143: 語法錯誤: 遺漏 ',' (在 '*' 之前)
+c:\users\user\desktop\計算機概論\大一下\hw11_e24116071\hw11_e24116071\magicianplayer.cpp(14): error C3861: 'setname': 找不到識別項
+c:\users\user\desktop\計算機概論\大一下\hw11_e24116071\hw11_e24116071\magicianplayer.cpp(20): error C3861: 'setname': 找不到識別項
+c:\users\user\desktop\計算機概論\大一下\hw11_e24116071\hw11_e24116071\magicianplayer.cpp(26): error C3861: 'setname': 找不到識別項
+c:\users\user\desktop\計算機概論\大一下\hw11_e24116071\hw11_e24116071\magicianplayer.cpp(31): error C2039: 'getLevel': 不是 'MagicianPlayer' 的成員
+  c:\users\user\desktop\計算機概論\大一下\hw11_e24116071\hw11_e24116071\magicianplayer.h(6): note: 請參閱 'MagicianPlayer' 的宣告
+c:\users\user\desktop\計算機概論\大一下\hw11_e24116071\hw11_e24116071\magicianplayer.cpp(32): error C2039: 'getname': 不是 'MagicianPlayer' 的成員
+  c:\users\user\desktop\計算機概論\大一下\hw11_e24116071\hw11_e24116071\magicianplayer.h(6): note: 請參閱 'MagicianPlayer' 的宣告
+c:\users\user\desktop\計算機概論\大一下\hw11_e24116071\hw11_e24116071\magicianplayer.cpp(32): error C3861: 'setname': 找不到識別項
+c:\users\user\desktop\計算機概論\大一下\hw11_e24116071\hw11_e24116071\magicianplayer.cpp(38): error C2065: 'level': 未宣告的識別項
+c:\users\user\desktop\計算機概論\大一下\hw11_e24116071\hw11_e24116071\magicianplayer.cpp(39): error C2065: 'maxhp': 未宣告的識別項
+c:\users\user\desktop\計算機概論\大一下\hw11_e24116071\hw11_e24116071\magicianplayer.cpp(40): error C2065: 'maxmp': 未宣告的識別項
+c:\users\user\desktop\計算機概論\大一下\hw11_e24116071\hw11_e24116071\magicianplayer.cpp(41): error C2065: 'attack': 未宣告的識別項
+c:\users\user\desktop\計算機概論\大一下\hw11_e24116071\hw11_e24116071\magicianplayer.cpp(42): error C2065: 'defense': 未宣告的識別項
+c:\users\user\desktop\計算機概論\大一下\hw11_e24116071\hw11_e24116071\magicianplayer.cpp(43): error C2065: 'lvupexp': 未宣告的識別項
+c:\users\user\desktop\計算機概論\大一下\hw11_e24116071\hw11_e24116071\magicianplayer.cpp(43): error C2065: 'level': 未宣告的識別項
+c:\users\user\desktop\計算機概論\大一下\hw11_e24116071\hw11_e24116071\magicianplayer.cpp(43): error C2661: 'pow': 多載函式不使用 1 引數
+c:\users\user\desktop\計算機概論\大一下\hw11_e24116071\hw11_e24116071\magicianplayer.cpp(44): error C3861: 'sethp': 找不到識別項
+c:\users\user\desktop\計算機概論\大一下\hw11_e24116071\hw11_e24116071\magicianplayer.cpp(45): error C3861: 'setmp': 找不到識別項
+c:\users\user\desktop\計算機概論\大一下\hw11_e24116071\hw11_e24116071\magicianplayer.cpp(46): error C3861: 'setexp': 找不到識別項
+c:\users\user\desktop\計算機概論\大一下\hw11_e24116071\hw11_e24116071\magicianplayer.cpp(47): error C3861: 'getmoney': 找不到識別項
+c:\users\user\desktop\計算機概論\大一下\hw11_e24116071\hw11_e24116071\magicianplayer.cpp(47): error C2065: 'level': 未宣告的識別項
+c:\users\user\desktop\計算機概論\大一下\hw11_e24116071\hw11_e24116071\magicianplayer.cpp(47): error C2661: 'pow': 多載函式不使用 1 引數
+c:\users\user\desktop\計算機概論\大一下\hw11_e24116071\hw11_e24116071\magicianplayer.cpp(47): error C3861: 'setmoney': 找不到識別項
+c:\users\user\desktop\計算機概論\大一下\hw11_e24116071\hw11_e24116071\magicianplayer.cpp(53): error C3861: 'getLevel': 找不到識別項
+c:\users\user\desktop\計算機概論\大一下\hw11_e24116071\hw11_e24116071\magicianplayer.cpp(54): error C3861: 'getmp': 找不到識別項
+c:\users\user\desktop\計算機概論\大一下\hw11_e24116071\hw11_e24116071\magicianplayer.cpp(56): error C3861: 'getmp': 找不到識別項
+c:\users\user\desktop\計算機概論\大一下\hw11_e24116071\hw11_e24116071\magicianplayer.cpp(56): error C3861: 'setmp': 找不到識別項
+c:\users\user\desktop\計算機概論\大一下\hw11_e24116071\hw11_e24116071\magicianplayer.cpp(67): error C3861: 'getname': 找不到識別項
+c:\users\user\desktop\計算機概論\大一下\hw11_e24116071\hw11_e24116071\magicianplayer.cpp(68): error C3861: 'gethp': 找不到識別項
+c:\users\user\desktop\計算機概論\大一下\hw11_e24116071\hw11_e24116071\magicianplayer.cpp(69): error C3861: 'getmp': 找不到識別項
+c:\users\user\desktop\計算機概論\大一下\hw11_e24116071\hw11_e24116071\magicianplayer.cpp(70): error C3861: 'getexp': 找不到識別項
+c:\users\user\desktop\計算機概論\大一下\hw11_e24116071\hw11_e24116071\magicianplayer.cpp(71): error C3861: 'getmoney': 找不到識別項
+c:\users\user\desktop\計算機概論\大一下\hw11_e24116071\hw11_e24116071\magicianplayer.cpp(72): error C3861: 'getLevel': 找不到識別項
+c:\users\user\desktop\計算機概論\大一下\hw11_e24116071\hw11_e24116071\magicianplayer.cpp(77): error C2039: 'unserialize': 不是 'MagicianPlayer' 的成員
+  c:\users\user\desktop\計算機概論\大一下\hw11_e24116071\hw11_e24116071\magicianplayer.h(6): note: 請參閱 'MagicianPlayer' 的宣告
+c:\users\user\desktop\計算機概論\大一下\hw11_e24116071\hw11_e24116071\magicianplayer.cpp(101): error C2440: '正在初始化': 無法由 'MagicianPlayer *' 轉換為 'NovicePlayer *'
+  c:\users\user\desktop\計算機概論\大一下\hw11_e24116071\hw11_e24116071\magicianplayer.cpp(101): note: 指向的類型沒有相關; 轉換必須有 reinterpret_cast、C-Style 轉換或函式樣式轉換
+  main.cpp
+c:\users\user\desktop\計算機概論\大一下\hw11_e24116071\hw11_e24116071\orcplayer.h(6): error C2504: 'NovicePlayer': 基底類別未定義
+c:\users\user\desktop\計算機概論\大一下\hw11_e24116071\hw11_e24116071\orcplayer.h(14): error C2143: 語法錯誤: 遺漏 ';' (在 '*' 之前)
+c:\users\user\desktop\計算機概論\大一下\hw11_e24116071\hw11_e24116071\orcplayer.h(14): error C4430: 遺漏類型規範 - 假設為 int。注意: C++ 不支援 default-int
+c:\users\user\desktop\計算機概論\大一下\hw11_e24116071\hw11_e24116071\orcplayer.h(14): error C2238: 在 ';' 之前有未預期的語彙基元
+c:\users\user\desktop\計算機概論\大一下\hw11_e24116071\hw11_e24116071\knightplayer.h(6): error C2504: 'NovicePlayer': 基底類別未定義
+c:\users\user\desktop\計算機概論\大一下\hw11_e24116071\hw11_e24116071\knightplayer.h(13): error C2061: 語法錯誤: 識別項 'NovicePlayer'
+c:\users\user\desktop\計算機概論\大一下\hw11_e24116071\hw11_e24116071\knightplayer.h(15): error C2143: 語法錯誤: 遺漏 ';' (在 '*' 之前)
+c:\users\user\desktop\計算機概論\大一下\hw11_e24116071\hw11_e24116071\knightplayer.h(15): error C4430: 遺漏類型規範 - 假設為 int。注意: C++ 不支援 default-int
+c:\users\user\desktop\計算機概論\大一下\hw11_e24116071\hw11_e24116071\knightplayer.h(15): error C2238: 在 ';' 之前有未預期的語彙基元
+c:\users\user\desktop\計算機概論\大一下\hw11_e24116071\hw11_e24116071\magicianplayer.h(7): error C2504: 'NovicePlayer': 基底類別未定義
+c:\users\user\desktop\計算機概論\大一下\hw11_e24116071\hw11_e24116071\magicianplayer.h(16): error C2143: 語法錯誤: 遺漏 ';' (在 '*' 之前)
+c:\users\user\desktop\計算機概論\大一下\hw11_e24116071\hw11_e24116071\magicianplayer.h(16): error C4430: 遺漏類型規範 - 假設為 int。注意: C++ 不支援 default-int
+c:\users\user\desktop\計算機概論\大一下\hw11_e24116071\hw11_e24116071\magicianplayer.h(16): error C2238: 在 ';' 之前有未預期的語彙基元
+c:\users\user\desktop\計算機概論\大一下\hw11_e24116071\hw11_e24116071\battle.h(33): error C2065: 'NovicePlayer': 未宣告的識別項
+c:\users\user\desktop\計算機概論\大一下\hw11_e24116071\hw11_e24116071\battle.h(33): error C2059: 語法錯誤: '>'
+c:\users\user\desktop\計算機概論\大一下\hw11_e24116071\hw11_e24116071\consumableitem.h(13): error C4430: 遺漏類型規範 - 假設為 int。注意: C++ 不支援 default-int
+c:\users\user\desktop\計算機概論\大一下\hw11_e24116071\hw11_e24116071\consumableitem.h(13): error C2143: 語法錯誤: 遺漏 ',' (在 '*' 之前)
+  NovicePlayer.cpp
+c:\users\user\desktop\計算機概論\大一下\hw11_e24116071\hw11_e24116071\orcplayer.h(6): error C2504: 'NovicePlayer': 基底類別未定義
+c:\users\user\desktop\計算機概論\大一下\hw11_e24116071\hw11_e24116071\orcplayer.h(14): error C2143: 語法錯誤: 遺漏 ';' (在 '*' 之前)
+c:\users\user\desktop\計算機概論\大一下\hw11_e24116071\hw11_e24116071\orcplayer.h(14): error C4430: 遺漏類型規範 - 假設為 int。注意: C++ 不支援 default-int
+c:\users\user\desktop\計算機概論\大一下\hw11_e24116071\hw11_e24116071\orcplayer.h(14): error C2238: 在 ';' 之前有未預期的語彙基元
+c:\users\user\desktop\計算機概論\大一下\hw11_e24116071\hw11_e24116071\knightplayer.h(6): error C2504: 'NovicePlayer': 基底類別未定義
+c:\users\user\desktop\計算機概論\大一下\hw11_e24116071\hw11_e24116071\knightplayer.h(13): error C2061: 語法錯誤: 識別項 'NovicePlayer'
+c:\users\user\desktop\計算機概論\大一下\hw11_e24116071\hw11_e24116071\knightplayer.h(15): error C2143: 語法錯誤: 遺漏 ';' (在 '*' 之前)
+c:\users\user\desktop\計算機概論\大一下\hw11_e24116071\hw11_e24116071\knightplayer.h(15): error C4430: 遺漏類型規範 - 假設為 int。注意: C++ 不支援 default-int
+c:\users\user\desktop\計算機概論\大一下\hw11_e24116071\hw11_e24116071\knightplayer.h(15): error C2238: 在 ';' 之前有未預期的語彙基元
+c:\users\user\desktop\計算機概論\大一下\hw11_e24116071\hw11_e24116071\magicianplayer.h(7): error C2504: 'NovicePlayer': 基底類別未定義
+c:\users\user\desktop\計算機概論\大一下\hw11_e24116071\hw11_e24116071\magicianplayer.h(16): error C2143: 語法錯誤: 遺漏 ';' (在 '*' 之前)
+c:\users\user\desktop\計算機概論\大一下\hw11_e24116071\hw11_e24116071\magicianplayer.h(16): error C4430: 遺漏類型規範 - 假設為 int。注意: C++ 不支援 default-int
+c:\users\user\desktop\計算機概論\大一下\hw11_e24116071\hw11_e24116071\magicianplayer.h(16): error C2238: 在 ';' 之前有未預期的語彙基元
+c:\users\user\desktop\計算機概論\大一下\hw11_e24116071\hw11_e24116071\battle.h(33): error C2065: 'NovicePlayer': 未宣告的識別項
+c:\users\user\desktop\計算機概論\大一下\hw11_e24116071\hw11_e24116071\battle.h(33): error C2059: 語法錯誤: '>'
+c:\users\user\desktop\計算機概論\大一下\hw11_e24116071\hw11_e24116071\consumableitem.h(13): error C4430: 遺漏類型規範 - 假設為 int。注意: C++ 不支援 default-int
+c:\users\user\desktop\計算機概論\大一下\hw11_e24116071\hw11_e24116071\consumableitem.h(13): error C2143: 語法錯誤: 遺漏 ',' (在 '*' 之前)
+c:\users\user\desktop\計算機概論\大一下\hw11_e24116071\hw11_e24116071\noviceplayer.cpp(54): warning C4244: '=': 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+c:\users\user\desktop\計算機概論\大一下\hw11_e24116071\hw11_e24116071\noviceplayer.cpp(57): warning C4244: '=': 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+c:\users\user\desktop\計算機概論\大一下\hw11_e24116071\hw11_e24116071\noviceplayer.cpp(58): warning C4244: '=': 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+c:\users\user\desktop\計算機概論\大一下\hw11_e24116071\hw11_e24116071\noviceplayer.cpp(225): error C2664: 'void ConsumableItem::use(BaseMonster *,int)': 無法將引數 1 從 'NovicePlayer *' 轉換為 'const int'
+  c:\users\user\desktop\計算機概論\大一下\hw11_e24116071\hw11_e24116071\noviceplayer.cpp(225): note: 沒有可以進行此轉換的內容
+c:\users\user\desktop\計算機概論\大一下\hw11_e24116071\hw11_e24116071\noviceplayer.cpp(263): warning C4018: '<': signed/unsigned 不相符
+  OrcPlayer.cpp
+c:\users\user\desktop\計算機概論\大一下\hw11_e24116071\hw11_e24116071\orcplayer.h(6): error C2504: 'NovicePlayer': 基底類別未定義
+c:\users\user\desktop\計算機概論\大一下\hw11_e24116071\hw11_e24116071\orcplayer.h(14): error C2143: 語法錯誤: 遺漏 ';' (在 '*' 之前)
+c:\users\user\desktop\計算機概論\大一下\hw11_e24116071\hw11_e24116071\orcplayer.h(14): error C4430: 遺漏類型規範 - 假設為 int。注意: C++ 不支援 default-int
+c:\users\user\desktop\計算機概論\大一下\hw11_e24116071\hw11_e24116071\orcplayer.h(14): error C2238: 在 ';' 之前有未預期的語彙基元
+c:\users\user\desktop\計算機概論\大一下\hw11_e24116071\hw11_e24116071\knightplayer.h(6): error C2504: 'NovicePlayer': 基底類別未定義
+c:\users\user\desktop\計算機概論\大一下\hw11_e24116071\hw11_e24116071\knightplayer.h(13): error C2061: 語法錯誤: 識別項 'NovicePlayer'
+c:\users\user\desktop\計算機概論\大一下\hw11_e24116071\hw11_e24116071\knightplayer.h(15): error C2143: 語法錯誤: 遺漏 ';' (在 '*' 之前)
+c:\users\user\desktop\計算機概論\大一下\hw11_e24116071\hw11_e24116071\knightplayer.h(15): error C4430: 遺漏類型規範 - 假設為 int。注意: C++ 不支援 default-int
+c:\users\user\desktop\計算機概論\大一下\hw11_e24116071\hw11_e24116071\knightplayer.h(15): error C2238: 在 ';' 之前有未預期的語彙基元
+c:\users\user\desktop\計算機概論\大一下\hw11_e24116071\hw11_e24116071\magicianplayer.h(7): error C2504: 'NovicePlayer': 基底類別未定義
+c:\users\user\desktop\計算機概論\大一下\hw11_e24116071\hw11_e24116071\magicianplayer.h(16): error C2143: 語法錯誤: 遺漏 ';' (在 '*' 之前)
+c:\users\user\desktop\計算機概論\大一下\hw11_e24116071\hw11_e24116071\magicianplayer.h(16): error C4430: 遺漏類型規範 - 假設為 int。注意: C++ 不支援 default-int
+c:\users\user\desktop\計算機概論\大一下\hw11_e24116071\hw11_e24116071\magicianplayer.h(16): error C2238: 在 ';' 之前有未預期的語彙基元
+c:\users\user\desktop\計算機概論\大一下\hw11_e24116071\hw11_e24116071\battle.h(33): error C2065: 'NovicePlayer': 未宣告的識別項
+c:\users\user\desktop\計算機概論\大一下\hw11_e24116071\hw11_e24116071\battle.h(33): error C2059: 語法錯誤: '>'
+c:\users\user\desktop\計算機概論\大一下\hw11_e24116071\hw11_e24116071\consumableitem.h(13): error C4430: 遺漏類型規範 - 假設為 int。注意: C++ 不支援 default-int
+c:\users\user\desktop\計算機概論\大一下\hw11_e24116071\hw11_e24116071\consumableitem.h(13): error C2143: 語法錯誤: 遺漏 ',' (在 '*' 之前)
+c:\users\user\desktop\計算機概論\大一下\hw11_e24116071\hw11_e24116071\orcplayer.cpp(13): error C3861: 'setname': 找不到識別項
+c:\users\user\desktop\計算機概論\大一下\hw11_e24116071\hw11_e24116071\orcplayer.cpp(19): error C3861: 'setname': 找不到識別項
+c:\users\user\desktop\計算機概論\大一下\hw11_e24116071\hw11_e24116071\orcplayer.cpp(25): error C3861: 'setname': 找不到識別項
+c:\users\user\desktop\計算機概論\大一下\hw11_e24116071\hw11_e24116071\orcplayer.cpp(30): error C2039: 'getLevel': 不是 'OrcPlayer' 的成員
+  c:\users\user\desktop\計算機概論\大一下\hw11_e24116071\hw11_e24116071\orcplayer.h(5): note: 請參閱 'OrcPlayer' 的宣告
+c:\users\user\desktop\計算機概論\大一下\hw11_e24116071\hw11_e24116071\orcplayer.cpp(31): error C2039: 'getname': 不是 'OrcPlayer' 的成員
+  c:\users\user\desktop\計算機概論\大一下\hw11_e24116071\hw11_e24116071\orcplayer.h(5): note: 請參閱 'OrcPlayer' 的宣告
+c:\users\user\desktop\計算機概論\大一下\hw11_e24116071\hw11_e24116071\orcplayer.cpp(31): error C3861: 'setname': 找不到識別項
+c:\users\user\desktop\計算機概論\大一下\hw11_e24116071\hw11_e24116071\orcplayer.cpp(37): error C2065: 'level': 未宣告的識別項
+c:\users\user\desktop\計算機概論\大一下\hw11_e24116071\hw11_e24116071\orcplayer.cpp(38): error C2065: 'maxhp': 未宣告的識別項
+c:\users\user\desktop\計算機概論\大一下\hw11_e24116071\hw11_e24116071\orcplayer.cpp(39): error C2065: 'maxmp': 未宣告的識別項
+c:\users\user\desktop\計算機概論\大一下\hw11_e24116071\hw11_e24116071\orcplayer.cpp(40): error C2065: 'attack': 未宣告的識別項
+c:\users\user\desktop\計算機概論\大一下\hw11_e24116071\hw11_e24116071\orcplayer.cpp(41): error C2065: 'defense': 未宣告的識別項
+c:\users\user\desktop\計算機概論\大一下\hw11_e24116071\hw11_e24116071\orcplayer.cpp(42): error C2065: 'lvupexp': 未宣告的識別項
+c:\users\user\desktop\計算機概論\大一下\hw11_e24116071\hw11_e24116071\orcplayer.cpp(42): error C2065: 'level': 未宣告的識別項
+c:\users\user\desktop\計算機概論\大一下\hw11_e24116071\hw11_e24116071\orcplayer.cpp(42): error C2661: 'pow': 多載函式不使用 1 引數
+c:\users\user\desktop\計算機概論\大一下\hw11_e24116071\hw11_e24116071\orcplayer.cpp(43): error C3861: 'sethp': 找不到識別項
+c:\users\user\desktop\計算機概論\大一下\hw11_e24116071\hw11_e24116071\orcplayer.cpp(44): error C3861: 'setmp': 找不到識別項
+c:\users\user\desktop\計算機概論\大一下\hw11_e24116071\hw11_e24116071\orcplayer.cpp(45): error C2065: 'level': 未宣告的識別項
+c:\users\user\desktop\計算機概論\大一下\hw11_e24116071\hw11_e24116071\orcplayer.cpp(45): error C2661: 'pow': 多載函式不使用 1 引數
+c:\users\user\desktop\計算機概論\大一下\hw11_e24116071\hw11_e24116071\orcplayer.cpp(45): error C3861: 'setexp': 找不到識別項
+c:\users\user\desktop\計算機概論\大一下\hw11_e24116071\hw11_e24116071\orcplayer.cpp(46): error C3861: 'getmoney': 找不到識別項
+c:\users\user\desktop\計算機概論\大一下\hw11_e24116071\hw11_e24116071\orcplayer.cpp(46): error C2065: 'level': 未宣告的識別項
+c:\users\user\desktop\計算機概論\大一下\hw11_e24116071\hw11_e24116071\orcplayer.cpp(46): error C2661: 'pow': 多載函式不使用 1 引數
+c:\users\user\desktop\計算機概論\大一下\hw11_e24116071\hw11_e24116071\orcplayer.cpp(46): error C3861: 'setmoney': 找不到識別項
+c:\users\user\desktop\計算機概論\大一下\hw11_e24116071\hw11_e24116071\orcplayer.cpp(53): error C3861: 'getname': 找不到識別項
+c:\users\user\desktop\計算機概論\大一下\hw11_e24116071\hw11_e24116071\orcplayer.cpp(54): error C3861: 'gethp': 找不到識別項
+c:\users\user\desktop\計算機概論\大一下\hw11_e24116071\hw11_e24116071\orcplayer.cpp(55): error C3861: 'getmp': 找不到識別項
+c:\users\user\desktop\計算機概論\大一下\hw11_e24116071\hw11_e24116071\orcplayer.cpp(56): error C3861: 'getexp': 找不到識別項
+c:\users\user\desktop\計算機概論\大一下\hw11_e24116071\hw11_e24116071\orcplayer.cpp(57): error C3861: 'getmoney': 找不到識別項
+c:\users\user\desktop\計算機概論\大一下\hw11_e24116071\hw11_e24116071\orcplayer.cpp(58): error C3861: 'getLevel': 找不到識別項
+c:\users\user\desktop\計算機概論\大一下\hw11_e24116071\hw11_e24116071\orcplayer.cpp(63): error C2039: 'unserialize': 不是 'OrcPlayer' 的成員
+  c:\users\user\desktop\計算機概論\大一下\hw11_e24116071\hw11_e24116071\orcplayer.h(5): note: 請參閱 'OrcPlayer' 的宣告
+c:\users\user\desktop\計算機概論\大一下\hw11_e24116071\hw11_e24116071\orcplayer.cpp(87): error C2440: '正在初始化': 無法由 'OrcPlayer *' 轉換為 'NovicePlayer *'
+  c:\users\user\desktop\計算機概論\大一下\hw11_e24116071\hw11_e24116071\orcplayer.cpp(87): note: 指向的類型沒有相關; 轉換必須有 reinterpret_cast、C-Style 轉換或函式樣式轉換
+  Patronum.cpp
+c:\users\user\desktop\計算機概論\大一下\hw11_e24116071\hw11_e24116071\orcplayer.h(6): error C2504: 'NovicePlayer': 基底類別未定義
+c:\users\user\desktop\計算機概論\大一下\hw11_e24116071\hw11_e24116071\orcplayer.h(14): error C2143: 語法錯誤: 遺漏 ';' (在 '*' 之前)
+c:\users\user\desktop\計算機概論\大一下\hw11_e24116071\hw11_e24116071\orcplayer.h(14): error C4430: 遺漏類型規範 - 假設為 int。注意: C++ 不支援 default-int
+c:\users\user\desktop\計算機概論\大一下\hw11_e24116071\hw11_e24116071\orcplayer.h(14): error C2238: 在 ';' 之前有未預期的語彙基元
+c:\users\user\desktop\計算機概論\大一下\hw11_e24116071\hw11_e24116071\knightplayer.h(6): error C2504: 'NovicePlayer': 基底類別未定義
+c:\users\user\desktop\計算機概論\大一下\hw11_e24116071\hw11_e24116071\knightplayer.h(13): error C2061: 語法錯誤: 識別項 'NovicePlayer'
+c:\users\user\desktop\計算機概論\大一下\hw11_e24116071\hw11_e24116071\knightplayer.h(15): error C2143: 語法錯誤: 遺漏 ';' (在 '*' 之前)
+c:\users\user\desktop\計算機概論\大一下\hw11_e24116071\hw11_e24116071\knightplayer.h(15): error C4430: 遺漏類型規範 - 假設為 int。注意: C++ 不支援 default-int
+c:\users\user\desktop\計算機概論\大一下\hw11_e24116071\hw11_e24116071\knightplayer.h(15): error C2238: 在 ';' 之前有未預期的語彙基元
+c:\users\user\desktop\計算機概論\大一下\hw11_e24116071\hw11_e24116071\magicianplayer.h(7): error C2504: 'NovicePlayer': 基底類別未定義
+c:\users\user\desktop\計算機概論\大一下\hw11_e24116071\hw11_e24116071\magicianplayer.h(16): error C2143: 語法錯誤: 遺漏 ';' (在 '*' 之前)
+c:\users\user\desktop\計算機概論\大一下\hw11_e24116071\hw11_e24116071\magicianplayer.h(16): error C4430: 遺漏類型規範 - 假設為 int。注意: C++ 不支援 default-int
+c:\users\user\desktop\計算機概論\大一下\hw11_e24116071\hw11_e24116071\magicianplayer.h(16): error C2238: 在 ';' 之前有未預期的語彙基元
+c:\users\user\desktop\計算機概論\大一下\hw11_e24116071\hw11_e24116071\battle.h(33): error C2065: 'NovicePlayer': 未宣告的識別項
+c:\users\user\desktop\計算機概論\大一下\hw11_e24116071\hw11_e24116071\battle.h(33): error C2059: 語法錯誤: '>'
+c:\users\user\desktop\計算機概論\大一下\hw11_e24116071\hw11_e24116071\consumableitem.h(13): error C4430: 遺漏類型規範 - 假設為 int。注意: C++ 不支援 default-int
+c:\users\user\desktop\計算機概論\大一下\hw11_e24116071\hw11_e24116071\consumableitem.h(13): error C2143: 語法錯誤: 遺漏 ',' (在 '*' 之前)
+c:\users\user\desktop\計算機概論\大一下\hw11_e24116071\hw11_e24116071\noviceplayer.h(67): error C2143: 語法錯誤: 遺漏 ';' (在 '*' 之前)
+c:\users\user\desktop\計算機概論\大一下\hw11_e24116071\hw11_e24116071\noviceplayer.h(67): error C4430: 遺漏類型規範 - 假設為 int。注意: C++ 不支援 default-int
+c:\users\user\desktop\計算機概論\大一下\hw11_e24116071\hw11_e24116071\noviceplayer.h(67): error C2238: 在 ';' 之前有未預期的語彙基元
+c:\users\user\desktop\計算機概論\大一下\hw11_e24116071\hw11_e24116071\noviceplayer.h(69): error C2061: 語法錯誤: 識別項 'ArmorItem'
+  Sword.cpp
+c:\users\user\desktop\計算機概論\大一下\hw11_e24116071\hw11_e24116071\orcplayer.h(6): error C2504: 'NovicePlayer': 基底類別未定義
+c:\users\user\desktop\計算機概論\大一下\hw11_e24116071\hw11_e24116071\orcplayer.h(14): error C2143: 語法錯誤: 遺漏 ';' (在 '*' 之前)
+c:\users\user\desktop\計算機概論\大一下\hw11_e24116071\hw11_e24116071\orcplayer.h(14): error C4430: 遺漏類型規範 - 假設為 int。注意: C++ 不支援 default-int
+c:\users\user\desktop\計算機概論\大一下\hw11_e24116071\hw11_e24116071\orcplayer.h(14): error C2238: 在 ';' 之前有未預期的語彙基元
+c:\users\user\desktop\計算機概論\大一下\hw11_e24116071\hw11_e24116071\knightplayer.h(6): error C2504: 'NovicePlayer': 基底類別未定義
+c:\users\user\desktop\計算機概論\大一下\hw11_e24116071\hw11_e24116071\knightplayer.h(13): error C2061: 語法錯誤: 識別項 'NovicePlayer'
+c:\users\user\desktop\計算機概論\大一下\hw11_e24116071\hw11_e24116071\knightplayer.h(15): error C2143: 語法錯誤: 遺漏 ';' (在 '*' 之前)
+c:\users\user\desktop\計算機概論\大一下\hw11_e24116071\hw11_e24116071\knightplayer.h(15): error C4430: 遺漏類型規範 - 假設為 int。注意: C++ 不支援 default-int
+c:\users\user\desktop\計算機概論\大一下\hw11_e24116071\hw11_e24116071\knightplayer.h(15): error C2238: 在 ';' 之前有未預期的語彙基元
+c:\users\user\desktop\計算機概論\大一下\hw11_e24116071\hw11_e24116071\magicianplayer.h(7): error C2504: 'NovicePlayer': 基底類別未定義
+c:\users\user\desktop\計算機概論\大一下\hw11_e24116071\hw11_e24116071\magicianplayer.h(16): error C2143: 語法錯誤: 遺漏 ';' (在 '*' 之前)
+c:\users\user\desktop\計算機概論\大一下\hw11_e24116071\hw11_e24116071\magicianplayer.h(16): error C4430: 遺漏類型規範 - 假設為 int。注意: C++ 不支援 default-int
+c:\users\user\desktop\計算機概論\大一下\hw11_e24116071\hw11_e24116071\magicianplayer.h(16): error C2238: 在 ';' 之前有未預期的語彙基元
+c:\users\user\desktop\計算機概論\大一下\hw11_e24116071\hw11_e24116071\battle.h(33): error C2065: 'NovicePlayer': 未宣告的識別項
+c:\users\user\desktop\計算機概論\大一下\hw11_e24116071\hw11_e24116071\battle.h(33): error C2059: 語法錯誤: '>'
+c:\users\user\desktop\計算機概論\大一下\hw11_e24116071\hw11_e24116071\consumableitem.h(13): error C4430: 遺漏類型規範 - 假設為 int。注意: C++ 不支援 default-int
+c:\users\user\desktop\計算機概論\大一下\hw11_e24116071\hw11_e24116071\consumableitem.h(13): error C2143: 語法錯誤: 遺漏 ',' (在 '*' 之前)
+  Venom.cpp
+c:\users\user\desktop\計算機概論\大一下\hw11_e24116071\hw11_e24116071\orcplayer.h(6): error C2504: 'NovicePlayer': 基底類別未定義
+c:\users\user\desktop\計算機概論\大一下\hw11_e24116071\hw11_e24116071\orcplayer.h(14): error C2143: 語法錯誤: 遺漏 ';' (在 '*' 之前)
+c:\users\user\desktop\計算機概論\大一下\hw11_e24116071\hw11_e24116071\orcplayer.h(14): error C4430: 遺漏類型規範 - 假設為 int。注意: C++ 不支援 default-int
+c:\users\user\desktop\計算機概論\大一下\hw11_e24116071\hw11_e24116071\orcplayer.h(14): error C2238: 在 ';' 之前有未預期的語彙基元
+c:\users\user\desktop\計算機概論\大一下\hw11_e24116071\hw11_e24116071\knightplayer.h(6): error C2504: 'NovicePlayer': 基底類別未定義
+c:\users\user\desktop\計算機概論\大一下\hw11_e24116071\hw11_e24116071\knightplayer.h(13): error C2061: 語法錯誤: 識別項 'NovicePlayer'
+c:\users\user\desktop\計算機概論\大一下\hw11_e24116071\hw11_e24116071\knightplayer.h(15): error C2143: 語法錯誤: 遺漏 ';' (在 '*' 之前)
+c:\users\user\desktop\計算機概論\大一下\hw11_e24116071\hw11_e24116071\knightplayer.h(15): error C4430: 遺漏類型規範 - 假設為 int。注意: C++ 不支援 default-int
+c:\users\user\desktop\計算機概論\大一下\hw11_e24116071\hw11_e24116071\knightplayer.h(15): error C2238: 在 ';' 之前有未預期的語彙基元
+c:\users\user\desktop\計算機概論\大一下\hw11_e24116071\hw11_e24116071\magicianplayer.h(7): error C2504: 'NovicePlayer': 基底類別未定義
+c:\users\user\desktop\計算機概論\大一下\hw11_e24116071\hw11_e24116071\magicianplayer.h(16): error C2143: 語法錯誤: 遺漏 ';' (在 '*' 之前)
+c:\users\user\desktop\計算機概論\大一下\hw11_e24116071\hw11_e24116071\magicianplayer.h(16): error C4430: 遺漏類型規範 - 假設為 int。注意: C++ 不支援 default-int
+c:\users\user\desktop\計算機概論\大一下\hw11_e24116071\hw11_e24116071\magicianplayer.h(16): error C2238: 在 ';' 之前有未預期的語彙基元
+c:\users\user\desktop\計算機概論\大一下\hw11_e24116071\hw11_e24116071\battle.h(33): error C2065: 'NovicePlayer': 未宣告的識別項
+c:\users\user\desktop\計算機概論\大一下\hw11_e24116071\hw11_e24116071\battle.h(33): error C2059: 語法錯誤: '>'
+c:\users\user\desktop\計算機概論\大一下\hw11_e24116071\hw11_e24116071\consumableitem.h(13): error C4430: 遺漏類型規範 - 假設為 int。注意: C++ 不支援 default-int
+c:\users\user\desktop\計算機概論\大一下\hw11_e24116071\hw11_e24116071\consumableitem.h(13): error C2143: 語法錯誤: 遺漏 ',' (在 '*' 之前)
+c:\users\user\desktop\計算機概論\大一下\hw11_e24116071\hw11_e24116071\venom.cpp(16): warning C4244: '引數': 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+  Wand.cpp
+c:\users\user\desktop\計算機概論\大一下\hw11_e24116071\hw11_e24116071\orcplayer.h(6): error C2504: 'NovicePlayer': 基底類別未定義
+c:\users\user\desktop\計算機概論\大一下\hw11_e24116071\hw11_e24116071\orcplayer.h(14): error C2143: 語法錯誤: 遺漏 ';' (在 '*' 之前)
+c:\users\user\desktop\計算機概論\大一下\hw11_e24116071\hw11_e24116071\orcplayer.h(14): error C4430: 遺漏類型規範 - 假設為 int。注意: C++ 不支援 default-int
+c:\users\user\desktop\計算機概論\大一下\hw11_e24116071\hw11_e24116071\orcplayer.h(14): error C2238: 在 ';' 之前有未預期的語彙基元
+c:\users\user\desktop\計算機概論\大一下\hw11_e24116071\hw11_e24116071\knightplayer.h(6): error C2504: 'NovicePlayer': 基底類別未定義
+c:\users\user\desktop\計算機概論\大一下\hw11_e24116071\hw11_e24116071\knightplayer.h(13): error C2061: 語法錯誤: 識別項 'NovicePlayer'
+c:\users\user\desktop\計算機概論\大一下\hw11_e24116071\hw11_e24116071\knightplayer.h(15): error C2143: 語法錯誤: 遺漏 ';' (在 '*' 之前)
+c:\users\user\desktop\計算機概論\大一下\hw11_e24116071\hw11_e24116071\knightplayer.h(15): error C4430: 遺漏類型規範 - 假設為 int。注意: C++ 不支援 default-int
+c:\users\user\desktop\計算機概論\大一下\hw11_e24116071\hw11_e24116071\knightplayer.h(15): error C2238: 在 ';' 之前有未預期的語彙基元
+c:\users\user\desktop\計算機概論\大一下\hw11_e24116071\hw11_e24116071\magicianplayer.h(7): error C2504: 'NovicePlayer': 基底類別未定義
+c:\users\user\desktop\計算機概論\大一下\hw11_e24116071\hw11_e24116071\magicianplayer.h(16): error C2143: 語法錯誤: 遺漏 ';' (在 '*' 之前)
+c:\users\user\desktop\計算機概論\大一下\hw11_e24116071\hw11_e24116071\magicianplayer.h(16): error C4430: 遺漏類型規範 - 假設為 int。注意: C++ 不支援 default-int
+c:\users\user\desktop\計算機概論\大一下\hw11_e24116071\hw11_e24116071\magicianplayer.h(16): error C2238: 在 ';' 之前有未預期的語彙基元
+c:\users\user\desktop\計算機概論\大一下\hw11_e24116071\hw11_e24116071\battle.h(33): error C2065: 'NovicePlayer': 未宣告的識別項
+c:\users\user\desktop\計算機概論\大一下\hw11_e24116071\hw11_e24116071\battle.h(33): error C2059: 語法錯誤: '>'
+c:\users\user\desktop\計算機概論\大一下\hw11_e24116071\hw11_e24116071\consumableitem.h(13): error C4430: 遺漏類型規範 - 假設為 int。注意: C++ 不支援 default-int
+c:\users\user\desktop\計算機概論\大一下\hw11_e24116071\hw11_e24116071\consumableitem.h(13): error C2143: 語法錯誤: 遺漏 ',' (在 '*' 之前)
+  正在產生程式碼...
+  正在編譯...
+  WeaponItem.cpp
+c:\users\user\desktop\計算機概論\大一下\hw11_e24116071\hw11_e24116071\orcplayer.h(6): error C2504: 'NovicePlayer': 基底類別未定義
+c:\users\user\desktop\計算機概論\大一下\hw11_e24116071\hw11_e24116071\orcplayer.h(14): error C2143: 語法錯誤: 遺漏 ';' (在 '*' 之前)
+c:\users\user\desktop\計算機概論\大一下\hw11_e24116071\hw11_e24116071\orcplayer.h(14): error C4430: 遺漏類型規範 - 假設為 int。注意: C++ 不支援 default-int
+c:\users\user\desktop\計算機概論\大一下\hw11_e24116071\hw11_e24116071\orcplayer.h(14): error C2238: 在 ';' 之前有未預期的語彙基元
+c:\users\user\desktop\計算機概論\大一下\hw11_e24116071\hw11_e24116071\knightplayer.h(6): error C2504: 'NovicePlayer': 基底類別未定義
+c:\users\user\desktop\計算機概論\大一下\hw11_e24116071\hw11_e24116071\knightplayer.h(13): error C2061: 語法錯誤: 識別項 'NovicePlayer'
+c:\users\user\desktop\計算機概論\大一下\hw11_e24116071\hw11_e24116071\knightplayer.h(15): error C2143: 語法錯誤: 遺漏 ';' (在 '*' 之前)
+c:\users\user\desktop\計算機概論\大一下\hw11_e24116071\hw11_e24116071\knightplayer.h(15): error C4430: 遺漏類型規範 - 假設為 int。注意: C++ 不支援 default-int
+c:\users\user\desktop\計算機概論\大一下\hw11_e24116071\hw11_e24116071\knightplayer.h(15): error C2238: 在 ';' 之前有未預期的語彙基元
+c:\users\user\desktop\計算機概論\大一下\hw11_e24116071\hw11_e24116071\magicianplayer.h(7): error C2504: 'NovicePlayer': 基底類別未定義
+c:\users\user\desktop\計算機概論\大一下\hw11_e24116071\hw11_e24116071\magicianplayer.h(16): error C2143: 語法錯誤: 遺漏 ';' (在 '*' 之前)
+c:\users\user\desktop\計算機概論\大一下\hw11_e24116071\hw11_e24116071\magicianplayer.h(16): error C4430: 遺漏類型規範 - 假設為 int。注意: C++ 不支援 default-int
+c:\users\user\desktop\計算機概論\大一下\hw11_e24116071\hw11_e24116071\magicianplayer.h(16): error C2238: 在 ';' 之前有未預期的語彙基元
+c:\users\user\desktop\計算機概論\大一下\hw11_e24116071\hw11_e24116071\battle.h(33): error C2065: 'NovicePlayer': 未宣告的識別項
+c:\users\user\desktop\計算機概論\大一下\hw11_e24116071\hw11_e24116071\battle.h(33): error C2059: 語法錯誤: '>'
+c:\users\user\desktop\計算機概論\大一下\hw11_e24116071\hw11_e24116071\consumableitem.h(13): error C4430: 遺漏類型規範 - 假設為 int。注意: C++ 不支援 default-int
+c:\users\user\desktop\計算機概論\大一下\hw11_e24116071\hw11_e24116071\consumableitem.h(13): error C2143: 語法錯誤: 遺漏 ',' (在 '*' 之前)
+  正在產生程式碼...
